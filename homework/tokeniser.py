@@ -2,9 +2,11 @@ import sys
 
 text = sys.stdin.readlines()
 
-for i in range(0, 3):
-	line = text[i]
-	print("# sent_id = ",i+1,"\n", "#text = ", line)
+for i in range(0, len(text)):
+	line = text[i].strip()
+	if line == "":
+		continue
+	print("# sent_id = ",i+1,"\n"+"# text = ", line)
 	token_id = 1
 	punctuation = [".", ",", "?", "!", ":", ";"]
 	newline1=line.replace("с. ш.","&&&&")
@@ -15,5 +17,6 @@ for i in range(0, 3):
 	for token in tokens:
 		token=token.replace("&&&&", "с. ш. ")
 		token=token.replace("////","з. д. ")
-		print("%d\t%s" % (token_id, token))
+		print("%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_" % (token_id, token))
 		token_id = token_id+1
+	print()
