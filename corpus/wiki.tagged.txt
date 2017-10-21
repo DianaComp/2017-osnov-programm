@@ -1,1829 +1,725 @@
-# sent_id =  1
+# sent_id =  1 
 # text =  Tatnet:
-1	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-2	:	_	PUNCT	_	_	_	_	_	:
+1	Tatnet	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
 
-# sent_id =  2
+# sent_id =  2 
 # text =  Tatnet - Tatarça İnternet.
-1	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-2	-	_	_	_	_	_	_	_	-
-3	Tatarça	_	ADJ	_	_	_	_	_	Татарча
-4	İnternet	_	NOUN	_	_	_	_	_	интернет
-5	.	_	PUNCT	_	_	_	_	_	.
+1	Tatnet	_	_	_	_	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	Tatarça	_	_	_	_	_	_	_	_
+4	İnternet	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
-# sent_id =  3
+# sent_id =  3 
 # text =  Tatnet - tulısınça Tatar İnternetı - Tatarstan Respublikı däwlät tellärendä (tatar häm/yäki urs telläre) yazılğan wä Tatarstan häm/yäki Tatar xalqı turında xäbär itä torğan İnternet çeltärendäge mäğlümati resurslarnıñ barlığı bergä ul bula.
-1	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-2	-	_	_	_	_	_	_	_	-
-3	tulısınça	_	ADV	_	_	_	_	_	тулисинча
-4	Tatar	_	ADJ	_	_	_	_	_	Татар
-5	İnternetı	_	NOUN	_	_	_	_	_	интернети
-6	-	_	_	_	_	_	_	_	-
-7	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-8	Respublikı	_	NOUN	_	_	_	_	_	Республики
-9	däwlät	_	NOUN	_	_	_	_	_	давлат
-10	tellärendä	_	NOUN	_	_	_	_	_	телларенда
-11		_	_	_	_	_	_	_
-12	(tatar	_	_	_	_	_	_	_	(татар
-13	häm	_	INTJ	_	_	_	_	_	hам
-14	/yäki	_	_	_	_	_	_	_	/йаки
-15	urs	_	_	_	_	_	_	_	урс
-16	telläre	_	NOUN	_	_	_	_	_	телларе
-17	)	_	PUNCT	_	_	_	_	_	)
-18	yazılğan	_	ADJ	_	_	_	_	_	йазилган
-19	wä	_	CCONJ	_	_	_	_	_	ва
-20	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-21	häm	_	INTJ	_	_	_	_	_	hам
-22	/yäki	_	_	_	_	_	_	_	/йаки
-23	Tatar	_	ADJ	_	_	_	_	_	Татар
-24	xalqı	_	NOUN	_	_	_	_	_	халки
-25	turında	_	SCONJ	_	_	_	_	_	туринда
-26	xäbär	_	NOUN	_	_	_	_	_	хабар
-27	itä	_	VERB	_	_	_	_	_	ита
-28	torğan	_	VERB	_	_	_	_	_	торган
-29	İnternet	_	NOUN	_	_	_	_	_	интернет
-30	çeltärendäge	_	NOUN	_	_	_	_	_	челтарендаге
-31	mäğlümati	_	NOUN	_	_	_	_	_	маглүмати
-32	resurslarnıñ	_	NOUN	_	_	_	_	_	ресурсларнин
-33	barlığı	_	VERB	_	_	_	_	_	барлиги
-34	bergä	_	ADV	_	_	_	_	_	берга
-35	ul	_	PRON	_	_	_	_	_	ул
-36	bula	_	VERB	_	_	_	_	_	була
-37	.	_	PUNCT	_	_	_	_	_	.
+1	Tatnet	_	_	_	_	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	tulısınça	_	_	_	_	_	_	_	_
+4	Tatar	_	_	_	_	_	_	_	_
+5	İnternetı	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	Tatarstan	_	_	_	_	_	_	_	_
+8	Respublikı	_	_	_	_	_	_	_	_
+9	däwlät	_	_	_	_	_	_	_	_
+10	tellärendä	_	_	_	_	_	_	_	_
+11		_	_	_	_	_	_	_	_
+12	(tatar	_	_	_	_	_	_	_	_
+13	häm	_	_	_	_	_	_	_	_
+14	/yäki	_	_	_	_	_	_	_	_
+15	urs	_	_	_	_	_	_	_	_
+16	telläre	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	yazılğan	_	_	_	_	_	_	_	_
+19	wä	_	_	_	_	_	_	_	_
+20	Tatarstan	_	_	_	_	_	_	_	_
+21	häm	_	_	_	_	_	_	_	_
+22	/yäki	_	_	_	_	_	_	_	_
+23	Tatar	_	_	_	_	_	_	_	_
+24	xalqı	_	_	_	_	_	_	_	_
+25	turında	_	_	_	_	_	_	_	_
+26	xäbär	_	_	_	_	_	_	_	_
+27	itä	_	_	_	_	_	_	_	_
+28	torğan	_	_	_	_	_	_	_	_
+29	İnternet	_	_	_	_	_	_	_	_
+30	çeltärendäge	_	_	_	_	_	_	_	_
+31	mäğlümati	_	_	_	_	_	_	_	_
+32	resurslarnıñ	_	_	_	_	_	_	_	_
+33	barlığı	_	_	_	_	_	_	_	_
+34	bergä	_	_	_	_	_	_	_	_
+35	ul	_	_	_	_	_	_	_	_
+36	bula	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
 
-# sent_id =  4
+# sent_id =  4 
 # text =  "Tatnet" ataması üze elek "Azatlıq" radiosında eşlägän AQŞ'ta yäşäwçe Sabirjan Bedretdin isemle tatarı tarafınnan uylap çığarıla.
-1	"Tatnet"	_	_	_	_	_	_	_	"Татнет"
-2	ataması	_	NOUN	_	_	_	_	_	атамаси
-3	üze	_	PRON	_	_	_	_	_	үзе
-4	elek	_	NOUN	_	_	_	_	_	елек
-5	"Azatlıq"	_	_	_	_	_	_	_	"Азатлик"
-6	radiosında	_	NOUN	_	_	_	_	_	радиосинда
-7	eşlägän	_	VERB	_	_	_	_	_	ешлаган
-8	AQŞ'ta	_	_	_	_	_	_	_	АКШ'та
-9	yäşäwçe	_	VERB	_	_	_	_	_	йашавче
-10	Sabirjan	_	NOUN	_	_	_	_	_	Сабирйан
-11	Bedretdin	_	NOUN	_	_	_	_	_	Бедретдин
-12	isemle	_	ADJ	_	_	_	_	_	исемле
-13	tatarı	_	NOUN	_	_	_	_	_	татари
-14	tarafınnan	_	PRON	_	_	_	_	_	тарафиннан
-15	uylap	_	VERB	_	_	_	_	_	уйлап
-16	çığarıla	_	NOUN	_	_	_	_	_	чигарила
-17	.	_	PUNCT	_	_	_	_	_	.
+1	"Tatnet"	_	_	_	_	_	_	_	_
+2	ataması	_	_	_	_	_	_	_	_
+3	üze	_	_	_	_	_	_	_	_
+4	elek	_	_	_	_	_	_	_	_
+5	"Azatlıq"	_	_	_	_	_	_	_	_
+6	radiosında	_	_	_	_	_	_	_	_
+7	eşlägän	_	_	_	_	_	_	_	_
+8	AQŞ'ta	_	_	_	_	_	_	_	_
+9	yäşäwçe	_	_	_	_	_	_	_	_
+10	Sabirjan	_	_	_	_	_	_	_	_
+11	Bedretdin	_	_	_	_	_	_	_	_
+12	isemle	_	_	_	_	_	_	_	_
+13	tatarı	_	_	_	_	_	_	_	_
+14	tarafınnan	_	_	_	_	_	_	_	_
+15	uylap	_	_	_	_	_	_	_	_
+16	çığarıla	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
 
-# sent_id =  5
+# sent_id =  5 
 # text =  AQŞ'nıñ törle ştatları häm Törkiädä ğömer kiçergän tatarlar öçen xäbär wä fayllar belän almaşu buyınça TMG (Tatar e-Mail Group) internet - taratqıçın buldıruı häm 'İnternet çeltärendäge Qazan' ("Qazan v seti İnternet") päräwez(web)-serverı açıluı belän bergä 1994 yılnıñ tiräsendä Tatnet barlıqqa kilä ul.
-1	AQŞ'nıñ	_	_	_	_	_	_	_	АКШ'нин
-2	törle	_	ADJ	_	_	_	_	_	төрле
-3	ştatları	_	NOUN	_	_	_	_	_	штатлари
-4	häm	_	INTJ	_	_	_	_	_	hам
-5	Törkiädä	_	NOUN	_	_	_	_	_	Төркиада
-6	ğömer	_	NOUN	_	_	_	_	_	гөмер
-7	kiçergän	_	ADJ	_	_	_	_	_	кичерган
-8	tatarlar	_	NOUN	_	_	_	_	_	татарлар
-9	öçen	_	CCONJ	_	_	_	_	_	өчен
-10	xäbär	_	NOUN	_	_	_	_	_	хабар
-11	wä	_	CCONJ	_	_	_	_	_	ва
-12	fayllar	_	NOUN	_	_	_	_	_	файллар
-13	belän	_	SCONJ	_	_	_	_	_	белан
-14	almaşu	_	VERB	_	_	_	_	_	алмашу
-15	buyınça	_	ADV	_	_	_	_	_	буйинча
-16	TMG	_	OTHER	_	_	_	_	_	ТМГ
-17		_	_	_	_	_	_	_
-18	(Tatar	_	_	_	_	_	_	_	(Татар
-19	e-Mail	_	_	_	_	_	_	_	е-Маил
-20	Group	_	NOUN	_	_	_	_	_	Гроуп
-21	)	_	PUNCT	_	_	_	_	_	)
-22	internet	_	NOUN	_	_	_	_	_	интернет
-23	-	_	_	_	_	_	_	_	-
-24	taratqıçın	_	NOUN	_	_	_	_	_	тараткичин
-25	buldıruı	_	VERB	_	_	_	_	_	булдируи
-26	häm	_	INTJ	_	_	_	_	_	hам
-27	'İnternet	_	_	_	_	_	_	_	'интернет
-28	çeltärendäge	_	NOUN	_	_	_	_	_	челтарендаге
-29	Qazan'	_	_	_	_	_	_	_	Казан'
-30		_	_	_	_	_	_	_
-31	("Qazan	_	_	_	_	_	_	_	("Казан
-32	v	_	CCONJ	_	_	_	_	_	в
-33	seti	_	NOUN	_	_	_	_	_	сети
-34	İnternet"	_	_	_	_	_	_	_	интернет"
-35	)	_	PUNCT	_	_	_	_	_	)
-36	päräwez	_	NOUN	_	_	_	_	_	паравез
-37	(web	_	_	_	_	_	_	_	(веб
-38	)-serverı	_	_	_	_	_	_	_	)-сервери
-39	açıluı	_	VERB	_	_	_	_	_	ачилуи
-40	belän	_	SCONJ	_	_	_	_	_	белан
-41	bergä	_	ADV	_	_	_	_	_	берга
-42	1994	_	_	_	_	_	_	_	1994
-43	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-44	tiräsendä	_	ADV	_	_	_	_	_	тирасенда
-45	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-46	barlıqqa	_	VERB	_	_	_	_	_	барликка
-47	kilä	_	VERB	_	_	_	_	_	кила
-48	ul	_	PRON	_	_	_	_	_	ул
-49	.	_	PUNCT	_	_	_	_	_	.
+1	AQŞ'nıñ	_	_	_	_	_	_	_	_
+2	törle	_	_	_	_	_	_	_	_
+3	ştatları	_	_	_	_	_	_	_	_
+4	häm	_	_	_	_	_	_	_	_
+5	Törkiädä	_	_	_	_	_	_	_	_
+6	ğömer	_	_	_	_	_	_	_	_
+7	kiçergän	_	_	_	_	_	_	_	_
+8	tatarlar	_	_	_	_	_	_	_	_
+9	öçen	_	_	_	_	_	_	_	_
+10	xäbär	_	_	_	_	_	_	_	_
+11	wä	_	_	_	_	_	_	_	_
+12	fayllar	_	_	_	_	_	_	_	_
+13	belän	_	_	_	_	_	_	_	_
+14	almaşu	_	_	_	_	_	_	_	_
+15	buyınça	_	_	_	_	_	_	_	_
+16	TMG	_	_	_	_	_	_	_	_
+17		_	_	_	_	_	_	_	_
+18	(Tatar	_	_	_	_	_	_	_	_
+19	e-Mail	_	_	_	_	_	_	_	_
+20	Group	_	_	_	_	_	_	_	_
+21	)	_	_	_	_	_	_	_	_
+22	internet	_	_	_	_	_	_	_	_
+23	-	_	_	_	_	_	_	_	_
+24	taratqıçın	_	_	_	_	_	_	_	_
+25	buldıruı	_	_	_	_	_	_	_	_
+26	häm	_	_	_	_	_	_	_	_
+27	'İnternet	_	_	_	_	_	_	_	_
+28	çeltärendäge	_	_	_	_	_	_	_	_
+29	Qazan'	_	_	_	_	_	_	_	_
+30		_	_	_	_	_	_	_	_
+31	("Qazan	_	_	_	_	_	_	_	_
+32	v	_	_	_	_	_	_	_	_
+33	seti	_	_	_	_	_	_	_	_
+34	İnternet"	_	_	_	_	_	_	_	_
+35	)	_	_	_	_	_	_	_	_
+36	päräwez	_	_	_	_	_	_	_	_
+37	(web	_	_	_	_	_	_	_	_
+38	)-serverı	_	_	_	_	_	_	_	_
+39	açıluı	_	_	_	_	_	_	_	_
+40	belän	_	_	_	_	_	_	_	_
+41	bergä	_	_	_	_	_	_	_	_
+42	1994	_	_	_	_	_	_	_	_
+43	yılnıñ	_	_	_	_	_	_	_	_
+44	tiräsendä	_	_	_	_	_	_	_	_
+45	Tatnet	_	_	_	_	_	_	_	_
+46	barlıqqa	_	_	_	_	_	_	_	_
+47	kilä	_	_	_	_	_	_	_	_
+48	ul	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
 
-# sent_id =  6
+# sent_id =  6 
 # text =  Annarı 1995 yılda "İnternet çeltärendäge Tatarstan" serverı (http://www.kcn.ru) oyıştırılğan bulğan, 1996 yılda - "Samar Tatarları" saytı (www.ssu.samara.ru/~povolzje/tatari.htm), 1997 yılda - Alxan Aqidel köy - moñ saytı (http://akidil.net/); "Azatlıq" radiosınıñ saytı (http://www.azatliq.org), Tatarstan Respublikası räsmi serverı (http://www.tatar.ru/), 1998 yılda - Bötendönya Tatar kongressı (http://www.tatar-kongress.org), cırçı Zölfiä Qamal (http://www.zulya.com) h.b.
-1	Annarı	_	ADV	_	_	_	_	_	Аннари
-2	1995	_	_	_	_	_	_	_	1995
-3	yılda	_	NOUN	_	_	_	_	_	йилда
-4	"İnternet	_	_	_	_	_	_	_	"интернет
-5	çeltärendäge	_	NOUN	_	_	_	_	_	челтарендаге
-6	Tatarstan"	_	_	_	_	_	_	_	Татарстан"
-7	serverı	_	NOUN	_	_	_	_	_	сервери
-8		_	_	_	_	_	_	_
-9	(http	_	_	_	_	_	_	_	(hттп
-10	:	_	PUNCT	_	_	_	_	_	:
-11	/	_	_	_	_	_	_	_	/
-12	/www	_	_	_	_	_	_	_	/ввв
-13	.kcn	_	_	_	_	_	_	_	.кцн
-14	.ru	_	_	_	_	_	_	_	.ру
-15	)	_	PUNCT	_	_	_	_	_	)
-16	oyıştırılğan	_	VERB	_	_	_	_	_	ойиштирилган
-17	bulğan	_	VERB	_	_	_	_	_	булган
-18	,	_	PUNCT	_	_	_	_	_	,
-19	1996	_	_	_	_	_	_	_	1996
-20	yılda	_	NOUN	_	_	_	_	_	йилда
-21	-	_	_	_	_	_	_	_	-
-22	"Samar	_	_	_	_	_	_	_	"Самар
-23	Tatarları"	_	_	_	_	_	_	_	Татарлари"
-24	saytı	_	NOUN	_	_	_	_	_	сайти
-25		_	_	_	_	_	_	_
-26	(www	_	_	_	_	_	_	_	(ввв
-27	.ssu	_	_	_	_	_	_	_	.ссу
-28	.samara	_	_	_	_	_	_	_	.самара
-29	.ru	_	_	_	_	_	_	_	.ру
-30	/~povolzje	_	_	_	_	_	_	_	/~поволзйе
-31	/tatari	_	_	_	_	_	_	_	/татари
-32	.htm	_	_	_	_	_	_	_	.hтм
-33	)	_	PUNCT	_	_	_	_	_	)
-34	,	_	PUNCT	_	_	_	_	_	,
-35	1997	_	_	_	_	_	_	_	1997
-36	yılda	_	NOUN	_	_	_	_	_	йилда
-37	-	_	_	_	_	_	_	_	-
-38	Alxan	_	NOUN	_	_	_	_	_	Алхан
-39	Aqidel	_	NOUN	_	_	_	_	_	Акидел
-40	köy	_	NOUN	_	_	_	_	_	көй
-41	-	_	_	_	_	_	_	_	-
-42	moñ	_	NOUN	_	_	_	_	_	мон
-43	saytı	_	NOUN	_	_	_	_	_	сайти
-44		_	_	_	_	_	_	_
-45	(http	_	_	_	_	_	_	_	(hттп
-46	:	_	PUNCT	_	_	_	_	_	:
-47	/	_	_	_	_	_	_	_	/
-48	/akidil	_	_	_	_	_	_	_	/акидил
-49	.net	_	_	_	_	_	_	_	.нет
-50	/	_	_	_	_	_	_	_	/
-51	)	_	PUNCT	_	_	_	_	_	)
-52	;	_	PUNCT	_	_	_	_	_	;
-53	"Azatlıq"	_	_	_	_	_	_	_	"Азатлик"
-54	radiosınıñ	_	NOUN	_	_	_	_	_	радиосинин
-55	saytı	_	NOUN	_	_	_	_	_	сайти
-56		_	_	_	_	_	_	_
-57	(http	_	_	_	_	_	_	_	(hттп
-58	:	_	PUNCT	_	_	_	_	_	:
-59	/	_	_	_	_	_	_	_	/
-60	/www	_	_	_	_	_	_	_	/ввв
-61	.azatliq	_	_	_	_	_	_	_	.азатлик
-62	.org	_	_	_	_	_	_	_	.орг
-63	)	_	PUNCT	_	_	_	_	_	)
-64	,	_	PUNCT	_	_	_	_	_	,
-65	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-66	Respublikası	_	NOUN	_	_	_	_	_	Республикаси
-67	räsmi	_	ADJ	_	_	_	_	_	расми
-68	serverı	_	NOUN	_	_	_	_	_	сервери
-69		_	_	_	_	_	_	_
-70	(http	_	_	_	_	_	_	_	(hттп
-71	:	_	PUNCT	_	_	_	_	_	:
-72	/	_	_	_	_	_	_	_	/
-73	/www	_	_	_	_	_	_	_	/ввв
-74	.tatar	_	_	_	_	_	_	_	.татар
-75	.ru	_	_	_	_	_	_	_	.ру
-76	/	_	_	_	_	_	_	_	/
-77	)	_	PUNCT	_	_	_	_	_	)
-78	,	_	PUNCT	_	_	_	_	_	,
-79	1998	_	_	_	_	_	_	_	1998
-80	yılda	_	NOUN	_	_	_	_	_	йилда
-81	-	_	_	_	_	_	_	_	-
-82	Bötendönya	_	NOUN	_	_	_	_	_	Бөтендөнйа
-83	Tatar	_	ADJ	_	_	_	_	_	Татар
-84	kongressı	_	NOUN	_	_	_	_	_	конгресси
-85		_	_	_	_	_	_	_
-86	(http	_	_	_	_	_	_	_	(hттп
-87	:	_	PUNCT	_	_	_	_	_	:
-88	/	_	_	_	_	_	_	_	/
-89	/www	_	_	_	_	_	_	_	/ввв
-90	.tatar-kongress	_	_	_	_	_	_	_	.татар-конгресс
-91	.org	_	_	_	_	_	_	_	.орг
-92	)	_	PUNCT	_	_	_	_	_	)
-93	,	_	PUNCT	_	_	_	_	_	,
-94	cırçı	_	NOUN	_	_	_	_	_	цирчи
-95	Zölfiä	_	NOUN	_	_	_	_	_	Зөлфиа
-96	Qamal	_	NOUN	_	_	_	_	_	Камал
-97		_	_	_	_	_	_	_
-98	(http	_	_	_	_	_	_	_	(hттп
-99	:	_	PUNCT	_	_	_	_	_	:
-100	/	_	_	_	_	_	_	_	/
-101	/www	_	_	_	_	_	_	_	/ввв
-102	.zulya	_	_	_	_	_	_	_	.зулйа
-103	.com	_	_	_	_	_	_	_	.цом
-104	)	_	PUNCT	_	_	_	_	_	)
-105	h	_	INTJ	_	_	_	_	_	h
-106	.b	_	_	_	_	_	_	_	.б
-107	.	_	PUNCT	_	_	_	_	_	.
+1	Annarı	_	_	_	_	_	_	_	_
+2	1995	_	_	_	_	_	_	_	_
+3	yılda	_	_	_	_	_	_	_	_
+4	"İnternet	_	_	_	_	_	_	_	_
+5	çeltärendäge	_	_	_	_	_	_	_	_
+6	Tatarstan"	_	_	_	_	_	_	_	_
+7	serverı	_	_	_	_	_	_	_	_
+8		_	_	_	_	_	_	_	_
+9	(http	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+11	/	_	_	_	_	_	_	_	_
+12	/www	_	_	_	_	_	_	_	_
+13	.kcn	_	_	_	_	_	_	_	_
+14	.ru	_	_	_	_	_	_	_	_
+15	)	_	_	_	_	_	_	_	_
+16	oyıştırılğan	_	_	_	_	_	_	_	_
+17	bulğan	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	1996	_	_	_	_	_	_	_	_
+20	yılda	_	_	_	_	_	_	_	_
+21	-	_	_	_	_	_	_	_	_
+22	"Samar	_	_	_	_	_	_	_	_
+23	Tatarları"	_	_	_	_	_	_	_	_
+24	saytı	_	_	_	_	_	_	_	_
+25		_	_	_	_	_	_	_	_
+26	(www	_	_	_	_	_	_	_	_
+27	.ssu	_	_	_	_	_	_	_	_
+28	.samara	_	_	_	_	_	_	_	_
+29	.ru	_	_	_	_	_	_	_	_
+30	/~povolzje	_	_	_	_	_	_	_	_
+31	/tatari	_	_	_	_	_	_	_	_
+32	.htm	_	_	_	_	_	_	_	_
+33	)	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	1997	_	_	_	_	_	_	_	_
+36	yılda	_	_	_	_	_	_	_	_
+37	-	_	_	_	_	_	_	_	_
+38	Alxan	_	_	_	_	_	_	_	_
+39	Aqidel	_	_	_	_	_	_	_	_
+40	köy	_	_	_	_	_	_	_	_
+41	-	_	_	_	_	_	_	_	_
+42	moñ	_	_	_	_	_	_	_	_
+43	saytı	_	_	_	_	_	_	_	_
+44		_	_	_	_	_	_	_	_
+45	(http	_	_	_	_	_	_	_	_
+46	:	_	_	_	_	_	_	_	_
+47	/	_	_	_	_	_	_	_	_
+48	/akidil	_	_	_	_	_	_	_	_
+49	.net	_	_	_	_	_	_	_	_
+50	/	_	_	_	_	_	_	_	_
+51	)	_	_	_	_	_	_	_	_
+52	;	_	_	_	_	_	_	_	_
+53	"Azatlıq"	_	_	_	_	_	_	_	_
+54	radiosınıñ	_	_	_	_	_	_	_	_
+55	saytı	_	_	_	_	_	_	_	_
+56		_	_	_	_	_	_	_	_
+57	(http	_	_	_	_	_	_	_	_
+58	:	_	_	_	_	_	_	_	_
+59	/	_	_	_	_	_	_	_	_
+60	/www	_	_	_	_	_	_	_	_
+61	.azatliq	_	_	_	_	_	_	_	_
+62	.org	_	_	_	_	_	_	_	_
+63	)	_	_	_	_	_	_	_	_
+64	,	_	_	_	_	_	_	_	_
+65	Tatarstan	_	_	_	_	_	_	_	_
+66	Respublikası	_	_	_	_	_	_	_	_
+67	räsmi	_	_	_	_	_	_	_	_
+68	serverı	_	_	_	_	_	_	_	_
+69		_	_	_	_	_	_	_	_
+70	(http	_	_	_	_	_	_	_	_
+71	:	_	_	_	_	_	_	_	_
+72	/	_	_	_	_	_	_	_	_
+73	/www	_	_	_	_	_	_	_	_
+74	.tatar	_	_	_	_	_	_	_	_
+75	.ru	_	_	_	_	_	_	_	_
+76	/	_	_	_	_	_	_	_	_
+77	)	_	_	_	_	_	_	_	_
+78	,	_	_	_	_	_	_	_	_
+79	1998	_	_	_	_	_	_	_	_
+80	yılda	_	_	_	_	_	_	_	_
+81	-	_	_	_	_	_	_	_	_
+82	Bötendönya	_	_	_	_	_	_	_	_
+83	Tatar	_	_	_	_	_	_	_	_
+84	kongressı	_	_	_	_	_	_	_	_
+85		_	_	_	_	_	_	_	_
+86	(http	_	_	_	_	_	_	_	_
+87	:	_	_	_	_	_	_	_	_
+88	/	_	_	_	_	_	_	_	_
+89	/www	_	_	_	_	_	_	_	_
+90	.tatar-kongress	_	_	_	_	_	_	_	_
+91	.org	_	_	_	_	_	_	_	_
+92	)	_	_	_	_	_	_	_	_
+93	,	_	_	_	_	_	_	_	_
+94	cırçı	_	_	_	_	_	_	_	_
+95	Zölfiä	_	_	_	_	_	_	_	_
+96	Qamal	_	_	_	_	_	_	_	_
+97		_	_	_	_	_	_	_	_
+98	(http	_	_	_	_	_	_	_	_
+99	:	_	_	_	_	_	_	_	_
+100	/	_	_	_	_	_	_	_	_
+101	/www	_	_	_	_	_	_	_	_
+102	.zulya	_	_	_	_	_	_	_	_
+103	.com	_	_	_	_	_	_	_	_
+104	)	_	_	_	_	_	_	_	_
+105	h	_	_	_	_	_	_	_	_
+106	.b	_	_	_	_	_	_	_	_
+107	.	_	_	_	_	_	_	_	_
 
-# sent_id =  7
+# sent_id =  7 
 # text =  saytları.
-1	saytları	_	NOUN	_	_	_	_	_	сайтлари
-2	.	_	PUNCT	_	_	_	_	_	.
+1	saytları	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
 
-# sent_id =  8
+# sent_id =  8 
 # text =  2000 yılnıñ urtası Tatnet üseşendä borılış çorına äwerelä ul.
-1	2000	_	_	_	_	_	_	_	2000
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	urtası	_	NOUN	_	_	_	_	_	уртаси
-4	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-5	üseşendä	_	NOUN	_	_	_	_	_	үсешенда
-6	borılış	_	NOUN	_	_	_	_	_	борилиш
-7	çorına	_	NOUN	_	_	_	_	_	чорина
-8	äwerelä	_	ADJ	_	_	_	_	_	аверела
-9	ul	_	PRON	_	_	_	_	_	ул
-10	.	_	PUNCT	_	_	_	_	_	.
+1	2000	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	urtası	_	_	_	_	_	_	_	_
+4	Tatnet	_	_	_	_	_	_	_	_
+5	üseşendä	_	_	_	_	_	_	_	_
+6	borılış	_	_	_	_	_	_	_	_
+7	çorına	_	_	_	_	_	_	_	_
+8	äwerelä	_	_	_	_	_	_	_	_
+9	ul	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
 
-# sent_id =  9
+# sent_id =  9 
 # text =  Şuşı waqıttan başlap Räsäydäge İnternet çeltären qullanuçılar (şul arada milläte buyınça tatar bulğannarı da küp) sanı bik tä arta başlıy.
-1	Şuşı	_	PRON	_	_	_	_	_	Шуши
-2	waqıttan	_	NOUN	_	_	_	_	_	вакиттан
-3	başlap	_	VERB	_	_	_	_	_	башлап
-4	Räsäydäge	_	NOUN	_	_	_	_	_	Расайдаге
-5	İnternet	_	NOUN	_	_	_	_	_	интернет
-6	çeltären	_	NOUN	_	_	_	_	_	челтарен
-7	qullanuçılar	_	VERB	_	_	_	_	_	кулланучилар
-8		_	_	_	_	_	_	_
-9	(şul	_	_	_	_	_	_	_	(шул
-10	arada	_	CCONJ	_	_	_	_	_	арада
-11	milläte	_	NOUN	_	_	_	_	_	миллате
-12	buyınça	_	ADV	_	_	_	_	_	буйинча
-13	tatar	_	ADJ	_	_	_	_	_	татар
-14	bulğannarı	_	ADJ	_	_	_	_	_	булганнари
-15	da	_	OTHER	_	_	_	_	_	да
-16	küp	_	VERB	_	_	_	_	_	күп
-17	)	_	PUNCT	_	_	_	_	_	)
-18	sanı	_	NOUN	_	_	_	_	_	сани
-19	bik	_	ADV	_	_	_	_	_	бик
-20	tä	_	OTHER	_	_	_	_	_	та
-21	arta	_	ADV	_	_	_	_	_	арта
-22	başlıy	_	VERB	_	_	_	_	_	башлий
-23	.	_	PUNCT	_	_	_	_	_	.
+1	Şuşı	_	_	_	_	_	_	_	_
+2	waqıttan	_	_	_	_	_	_	_	_
+3	başlap	_	_	_	_	_	_	_	_
+4	Räsäydäge	_	_	_	_	_	_	_	_
+5	İnternet	_	_	_	_	_	_	_	_
+6	çeltären	_	_	_	_	_	_	_	_
+7	qullanuçılar	_	_	_	_	_	_	_	_
+8		_	_	_	_	_	_	_	_
+9	(şul	_	_	_	_	_	_	_	_
+10	arada	_	_	_	_	_	_	_	_
+11	milläte	_	_	_	_	_	_	_	_
+12	buyınça	_	_	_	_	_	_	_	_
+13	tatar	_	_	_	_	_	_	_	_
+14	bulğannarı	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	küp	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	sanı	_	_	_	_	_	_	_	_
+19	bik	_	_	_	_	_	_	_	_
+20	tä	_	_	_	_	_	_	_	_
+21	arta	_	_	_	_	_	_	_	_
+22	başlıy	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
 
-# sent_id =  10
+# sent_id =  10 
 # text =  Berençe Tatar internet - kibete (2001 yıl), Tatar "Dulqın" internet - radiosı (2001 yıl), "İntertat" elektron gäzite (2002 yıl) (http://www.intertat.ru), Bötendönya Tatarlar.ru tatar portalı (2002 yıl) häm başqa tatarlıqqa qağılışlı qızıqlı päräwez-proektlar dönya kürä.
-1	Berençe	_	NUM	_	_	_	_	_	Беренче
-2	Tatar	_	ADJ	_	_	_	_	_	Татар
-3	internet	_	NOUN	_	_	_	_	_	интернет
-4	-	_	_	_	_	_	_	_	-
-5	kibete	_	NOUN	_	_	_	_	_	кибете
-6		_	_	_	_	_	_	_
-7	(2001	_	_	_	_	_	_	_	(2001
-8	yıl	_	NOUN	_	_	_	_	_	йил
-9	)	_	PUNCT	_	_	_	_	_	)
-10	,	_	PUNCT	_	_	_	_	_	,
-11	Tatar	_	ADJ	_	_	_	_	_	Татар
-12	"Dulqın"	_	_	_	_	_	_	_	"Дулкин"
-13	internet	_	NOUN	_	_	_	_	_	интернет
-14	-	_	_	_	_	_	_	_	-
-15	radiosı	_	NOUN	_	_	_	_	_	радиоси
-16		_	_	_	_	_	_	_
-17	(2001	_	_	_	_	_	_	_	(2001
-18	yıl	_	NOUN	_	_	_	_	_	йил
-19	)	_	PUNCT	_	_	_	_	_	)
-20	,	_	PUNCT	_	_	_	_	_	,
-21	"İntertat"	_	_	_	_	_	_	_	"интертат"
-22	elektron	_	NOUN	_	_	_	_	_	електрон
-23	gäzite	_	NOUN	_	_	_	_	_	газите
-24		_	_	_	_	_	_	_
-25	(2002	_	_	_	_	_	_	_	(2002
-26	yıl	_	NOUN	_	_	_	_	_	йил
-27	)	_	PUNCT	_	_	_	_	_	)
-28		_	_	_	_	_	_	_
-29	(http	_	_	_	_	_	_	_	(hттп
-30	:	_	PUNCT	_	_	_	_	_	:
-31	/	_	_	_	_	_	_	_	/
-32	/www	_	_	_	_	_	_	_	/ввв
-33	.intertat	_	_	_	_	_	_	_	.интертат
-34	.ru	_	_	_	_	_	_	_	.ру
-35	)	_	PUNCT	_	_	_	_	_	)
-36	,	_	PUNCT	_	_	_	_	_	,
-37	Bötendönya	_	NOUN	_	_	_	_	_	Бөтендөнйа
-38	Tatarlar	_	NOUN	_	_	_	_	_	Татарлар
-39	.ru	_	_	_	_	_	_	_	.ру
-40	tatar	_	ADJ	_	_	_	_	_	татар
-41	portalı	_	NOUN	_	_	_	_	_	портали
-42		_	_	_	_	_	_	_
-43	(2002	_	_	_	_	_	_	_	(2002
-44	yıl	_	NOUN	_	_	_	_	_	йил
-45	)	_	PUNCT	_	_	_	_	_	)
-46	häm	_	INTJ	_	_	_	_	_	hам
-47	başqa	_	PRON	_	_	_	_	_	башка
-48	tatarlıqqa	_	NOUN	_	_	_	_	_	татарликка
-49	qağılışlı	_	VERB	_	_	_	_	_	кагилишли
-50	qızıqlı	_	ADJ	_	_	_	_	_	кизикли
-51	päräwez-proektlar	_	_	_	_	_	_	_	паравез-проектлар
-52	dönya	_	NOUN	_	_	_	_	_	дөнйа
-53	kürä	_	VERB	_	_	_	_	_	күра
-54	.	_	PUNCT	_	_	_	_	_	.
+1	Berençe	_	_	_	_	_	_	_	_
+2	Tatar	_	_	_	_	_	_	_	_
+3	internet	_	_	_	_	_	_	_	_
+4	-	_	_	_	_	_	_	_	_
+5	kibete	_	_	_	_	_	_	_	_
+6		_	_	_	_	_	_	_	_
+7	(2001	_	_	_	_	_	_	_	_
+8	yıl	_	_	_	_	_	_	_	_
+9	)	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Tatar	_	_	_	_	_	_	_	_
+12	"Dulqın"	_	_	_	_	_	_	_	_
+13	internet	_	_	_	_	_	_	_	_
+14	-	_	_	_	_	_	_	_	_
+15	radiosı	_	_	_	_	_	_	_	_
+16		_	_	_	_	_	_	_	_
+17	(2001	_	_	_	_	_	_	_	_
+18	yıl	_	_	_	_	_	_	_	_
+19	)	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	"İntertat"	_	_	_	_	_	_	_	_
+22	elektron	_	_	_	_	_	_	_	_
+23	gäzite	_	_	_	_	_	_	_	_
+24		_	_	_	_	_	_	_	_
+25	(2002	_	_	_	_	_	_	_	_
+26	yıl	_	_	_	_	_	_	_	_
+27	)	_	_	_	_	_	_	_	_
+28		_	_	_	_	_	_	_	_
+29	(http	_	_	_	_	_	_	_	_
+30	:	_	_	_	_	_	_	_	_
+31	/	_	_	_	_	_	_	_	_
+32	/www	_	_	_	_	_	_	_	_
+33	.intertat	_	_	_	_	_	_	_	_
+34	.ru	_	_	_	_	_	_	_	_
+35	)	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	Bötendönya	_	_	_	_	_	_	_	_
+38	Tatarlar	_	_	_	_	_	_	_	_
+39	.ru	_	_	_	_	_	_	_	_
+40	tatar	_	_	_	_	_	_	_	_
+41	portalı	_	_	_	_	_	_	_	_
+42		_	_	_	_	_	_	_	_
+43	(2002	_	_	_	_	_	_	_	_
+44	yıl	_	_	_	_	_	_	_	_
+45	)	_	_	_	_	_	_	_	_
+46	häm	_	_	_	_	_	_	_	_
+47	başqa	_	_	_	_	_	_	_	_
+48	tatarlıqqa	_	_	_	_	_	_	_	_
+49	qağılışlı	_	_	_	_	_	_	_	_
+50	qızıqlı	_	_	_	_	_	_	_	_
+51	päräwez-proektlar	_	_	_	_	_	_	_	_
+52	dönya	_	_	_	_	_	_	_	_
+53	kürä	_	_	_	_	_	_	_	_
+54	.	_	_	_	_	_	_	_	_
 
-# sent_id =  12
+# sent_id =  12 
 # text =  2002 yılnıñ 24 aprelendä Qazanda "Milli tellär häm mäğlümati texnoloğiälär" Fänni - ğämäli konferensiäse wä "Tatar tele häm sanaq texnoloğiäläre" fiker alışuı ütä.
-1	2002	_	_	_	_	_	_	_	2002
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	24	_	_	_	_	_	_	_	24
-4	aprelendä	_	NOUN	_	_	_	_	_	апреленда
-5	Qazanda	_	NOUN	_	_	_	_	_	Казанда
-6	"Milli	_	_	_	_	_	_	_	"Милли
-7	tellär	_	NOUN	_	_	_	_	_	теллар
-8	häm	_	INTJ	_	_	_	_	_	hам
-9	mäğlümati	_	NOUN	_	_	_	_	_	маглүмати
-10	texnoloğiälär"	_	_	_	_	_	_	_	технологиалар"
-11	Fänni	_	NOUN	_	_	_	_	_	Фанни
-12	-	_	_	_	_	_	_	_	-
-13	ğämäli	_	NOUN	_	_	_	_	_	гамали
-14	konferensiäse	_	NOUN	_	_	_	_	_	конференсиасе
-15	wä	_	CCONJ	_	_	_	_	_	ва
-16	"Tatar	_	_	_	_	_	_	_	"Татар
-17	tele	_	NOUN	_	_	_	_	_	теле
-18	häm	_	INTJ	_	_	_	_	_	hам
-19	sanaq	_	NOUN	_	_	_	_	_	санак
-20	texnoloğiäläre"	_	_	_	_	_	_	_	технологиаларе"
-21	fiker	_	NOUN	_	_	_	_	_	фикер
-22	alışuı	_	VERB	_	_	_	_	_	алишуи
-23	ütä	_		_	_	_	_	_	үта
-24	.	_	PUNCT	_	_	_	_	_	.
+1	2002	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	24	_	_	_	_	_	_	_	_
+4	aprelendä	_	_	_	_	_	_	_	_
+5	Qazanda	_	_	_	_	_	_	_	_
+6	"Milli	_	_	_	_	_	_	_	_
+7	tellär	_	_	_	_	_	_	_	_
+8	häm	_	_	_	_	_	_	_	_
+9	mäğlümati	_	_	_	_	_	_	_	_
+10	texnoloğiälär"	_	_	_	_	_	_	_	_
+11	Fänni	_	_	_	_	_	_	_	_
+12	-	_	_	_	_	_	_	_	_
+13	ğämäli	_	_	_	_	_	_	_	_
+14	konferensiäse	_	_	_	_	_	_	_	_
+15	wä	_	_	_	_	_	_	_	_
+16	"Tatar	_	_	_	_	_	_	_	_
+17	tele	_	_	_	_	_	_	_	_
+18	häm	_	_	_	_	_	_	_	_
+19	sanaq	_	_	_	_	_	_	_	_
+20	texnoloğiäläre"	_	_	_	_	_	_	_	_
+21	fiker	_	_	_	_	_	_	_	_
+22	alışuı	_	_	_	_	_	_	_	_
+23	ütä	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
 
-# sent_id =  13
+# sent_id =  13 
 # text =  2003 yılnıñ 1 aprelendä xalıqara "Tatnet yoldızları" isemle İnternet - proektların bäygese başlanğan ide.
-1	2003	_	_	_	_	_	_	_	2003
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	1	_	_	_	_	_	_	_	1
-4	aprelendä	_	NOUN	_	_	_	_	_	апреленда
-5	xalıqara	_	ADJ	_	_	_	_	_	халикара
-6	"Tatnet	_	_	_	_	_	_	_	"Татнет
-7	yoldızları"	_	_	_	_	_	_	_	йолдизлари"
-8	isemle	_	ADJ	_	_	_	_	_	исемле
-9	İnternet	_	NOUN	_	_	_	_	_	интернет
-10	-	_	_	_	_	_	_	_	-
-11	proektların	_	NOUN	_	_	_	_	_	проектларин
-12	bäygese	_	NOUN	_	_	_	_	_	байгесе
-13	başlanğan	_		_	_	_	_	_	башланган
-14	ide	_	VERB	_	_	_	_	_	иде
-15	.	_	PUNCT	_	_	_	_	_	.
+1	2003	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	1	_	_	_	_	_	_	_	_
+4	aprelendä	_	_	_	_	_	_	_	_
+5	xalıqara	_	_	_	_	_	_	_	_
+6	"Tatnet	_	_	_	_	_	_	_	_
+7	yoldızları"	_	_	_	_	_	_	_	_
+8	isemle	_	_	_	_	_	_	_	_
+9	İnternet	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	proektların	_	_	_	_	_	_	_	_
+12	bäygese	_	_	_	_	_	_	_	_
+13	başlanğan	_	_	_	_	_	_	_	_
+14	ide	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
 
-# sent_id =  14
+# sent_id =  14 
 # text =  Bäygedä barısı 115 sayt (törki saytların isäpkä alıp) qatnaşqan ide.
-1	Bäygedä	_	NOUN	_	_	_	_	_	Байгеда
-2	barısı	_	PRON	_	_	_	_	_	бариси
-3	115	_	_	_	_	_	_	_	115
-4	sayt	_	NOUN	_	_	_	_	_	сайт
-5		_	_	_	_	_	_	_
-6	(törki	_	_	_	_	_	_	_	(төрки
-7	saytların	_	NOUN	_	_	_	_	_	сайтларин
-8	isäpkä	_	NOUN	_	_	_	_	_	исапка
-9	alıp	_	VERB	_	_	_	_	_	алип
-10	)	_	PUNCT	_	_	_	_	_	)
-11	qatnaşqan	_	VERB	_	_	_	_	_	катнашкан
-12	ide	_	VERB	_	_	_	_	_	иде
-13	.	_	PUNCT	_	_	_	_	_	.
+1	Bäygedä	_	_	_	_	_	_	_	_
+2	barısı	_	_	_	_	_	_	_	_
+3	115	_	_	_	_	_	_	_	_
+4	sayt	_	_	_	_	_	_	_	_
+5		_	_	_	_	_	_	_	_
+6	(törki	_	_	_	_	_	_	_	_
+7	saytların	_	_	_	_	_	_	_	_
+8	isäpkä	_	_	_	_	_	_	_	_
+9	alıp	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	qatnaşqan	_	_	_	_	_	_	_	_
+12	ide	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
 
-# sent_id =  15
+# sent_id =  15 
 # text =  2004 yılda 78 sayt qatnaşqan ide, 2005 yılda - 82 sayt, 2006 yılda - 177 sayt.
-1	2004	_	_	_	_	_	_	_	2004
-2	yılda	_	NOUN	_	_	_	_	_	йилда
-3	78	_	_	_	_	_	_	_	78
-4	sayt	_	NOUN	_	_	_	_	_	сайт
-5	qatnaşqan	_	VERB	_	_	_	_	_	катнашкан
-6	ide	_	VERB	_	_	_	_	_	иде
-7	,	_	PUNCT	_	_	_	_	_	,
-8	2005	_	_	_	_	_	_	_	2005
-9	yılda	_	NOUN	_	_	_	_	_	йилда
-10	-	_	_	_	_	_	_	_	-
-11	82	_	_	_	_	_	_	_	82
-12	sayt	_	NOUN	_	_	_	_	_	сайт
-13	,	_	PUNCT	_	_	_	_	_	,
-14	2006	_	_	_	_	_	_	_	2006
-15	yılda	_	NOUN	_	_	_	_	_	йилда
-16	-	_	_	_	_	_	_	_	-
-17	177	_	_	_	_	_	_	_	177
-18	sayt	_	NOUN	_	_	_	_	_	сайт
-19	.	_	PUNCT	_	_	_	_	_	.
+1	2004	_	_	_	_	_	_	_	_
+2	yılda	_	_	_	_	_	_	_	_
+3	78	_	_	_	_	_	_	_	_
+4	sayt	_	_	_	_	_	_	_	_
+5	qatnaşqan	_	_	_	_	_	_	_	_
+6	ide	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	2005	_	_	_	_	_	_	_	_
+9	yılda	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	82	_	_	_	_	_	_	_	_
+12	sayt	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	2006	_	_	_	_	_	_	_	_
+15	yılda	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	177	_	_	_	_	_	_	_	_
+18	sayt	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
 
-# sent_id =  16
+# sent_id =  16 
 # text =  2003 yılnıñ 7 martında TR Prezidentı Qararına yaraşlı iñ yaqın yıllardağı Tatnet üseşe nigezlären sala torğan "2003 - 2007 yıllarına Tatarstan Respublikınıñ mäğlümatlaştıru häm elemtä ölkälärendäge däwlät säyäsäten Nigezläre" qabul itelgän ide.
-1	2003	_	_	_	_	_	_	_	2003
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	7	_	_	_	_	_	_	_	7
-4	martında	_	NOUN	_	_	_	_	_	мартинда
-5	TR	_	OTHER	_	_	_	_	_	ТР
-6	Prezidentı	_	NOUN	_	_	_	_	_	Президенти
-7	Qararına	_	VERB	_	_	_	_	_	Карарина
-8	yaraşlı	_	_	_	_	_	_	_	йарашли
-9	iñ	_	PART	_	_	_	_	_	ин
-10	yaqın	_	ADJ	_	_	_	_	_	йакин
-11	yıllardağı	_	NOUN	_	_	_	_	_	йиллардаги
-12	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-13	üseşe	_	NOUN	_	_	_	_	_	үсеше
-14	nigezlären	_	NOUN	_	_	_	_	_	нигезларен
-15	sala	_	VERB	_	_	_	_	_	сала
-16	torğan	_	VERB	_	_	_	_	_	торган
-17	"2003	_	_	_	_	_	_	_	"2003
-18	-	_	_	_	_	_	_	_	-
-19	2007	_	_	_	_	_	_	_	2007
-20	yıllarına	_	NOUN	_	_	_	_	_	йилларина
-21	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-22	Respublikınıñ	_	NOUN	_	_	_	_	_	Республикинин
-23	mäğlümatlaştıru	_	VERB	_	_	_	_	_	маглүматлаштиру
-24	häm	_	INTJ	_	_	_	_	_	hам
-25	elemtä	_	NOUN	_	_	_	_	_	елемта
-26	ölkälärendäge	_	NOUN	_	_	_	_	_	өлкаларендаге
-27	däwlät	_	NOUN	_	_	_	_	_	давлат
-28	säyäsäten	_	NOUN	_	_	_	_	_	сайасатен
-29	Nigezläre"	_	_	_	_	_	_	_	Нигезларе"
-30	qabul	_	NOUN	_	_	_	_	_	кабул
-31	itelgän	_	ADJ	_	_	_	_	_	ителган
-32	ide	_	VERB	_	_	_	_	_	иде
-33	.	_	PUNCT	_	_	_	_	_	.
+1	2003	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	7	_	_	_	_	_	_	_	_
+4	martında	_	_	_	_	_	_	_	_
+5	TR	_	_	_	_	_	_	_	_
+6	Prezidentı	_	_	_	_	_	_	_	_
+7	Qararına	_	_	_	_	_	_	_	_
+8	yaraşlı	_	_	_	_	_	_	_	_
+9	iñ	_	_	_	_	_	_	_	_
+10	yaqın	_	_	_	_	_	_	_	_
+11	yıllardağı	_	_	_	_	_	_	_	_
+12	Tatnet	_	_	_	_	_	_	_	_
+13	üseşe	_	_	_	_	_	_	_	_
+14	nigezlären	_	_	_	_	_	_	_	_
+15	sala	_	_	_	_	_	_	_	_
+16	torğan	_	_	_	_	_	_	_	_
+17	"2003	_	_	_	_	_	_	_	_
+18	-	_	_	_	_	_	_	_	_
+19	2007	_	_	_	_	_	_	_	_
+20	yıllarına	_	_	_	_	_	_	_	_
+21	Tatarstan	_	_	_	_	_	_	_	_
+22	Respublikınıñ	_	_	_	_	_	_	_	_
+23	mäğlümatlaştıru	_	_	_	_	_	_	_	_
+24	häm	_	_	_	_	_	_	_	_
+25	elemtä	_	_	_	_	_	_	_	_
+26	ölkälärendäge	_	_	_	_	_	_	_	_
+27	däwlät	_	_	_	_	_	_	_	_
+28	säyäsäten	_	_	_	_	_	_	_	_
+29	Nigezläre"	_	_	_	_	_	_	_	_
+30	qabul	_	_	_	_	_	_	_	_
+31	itelgän	_	_	_	_	_	_	_	_
+32	ide	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
 
-# sent_id =  17
+# sent_id =  17 
 # text =  2003 yılnıñ yünendä İntertat ağentlığı tarafınnan oyıştırılğan häm sayt buldıruçılarnıñ kübese qatnaşqan berençe Tatnet Forumı bulğan ide.
-1	2003	_	_	_	_	_	_	_	2003
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	yünendä	_	ADV	_	_	_	_	_	йүненда
-4	İntertat	_	OTHER	_	_	_	_	_	интертат
-5	ağentlığı	_	NOUN	_	_	_	_	_	агентлиги
-6	tarafınnan	_	PRON	_	_	_	_	_	тарафиннан
-7	oyıştırılğan	_	VERB	_	_	_	_	_	ойиштирилган
-8	häm	_	INTJ	_	_	_	_	_	hам
-9	sayt	_	NOUN	_	_	_	_	_	сайт
-10	buldıruçılarnıñ	_	NOUN	_	_	_	_	_	булдиручиларнин
-11	kübese	_	NOUN	_	_	_	_	_	күбесе
-12	qatnaşqan	_	VERB	_	_	_	_	_	катнашкан
-13	berençe	_	NUM	_	_	_	_	_	беренче
-14	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-15	Forumı	_	NOUN	_	_	_	_	_	Форуми
-16	bulğan	_	VERB	_	_	_	_	_	булган
-17	ide	_	VERB	_	_	_	_	_	иде
-18	.	_	PUNCT	_	_	_	_	_	.
+1	2003	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	yünendä	_	_	_	_	_	_	_	_
+4	İntertat	_	_	_	_	_	_	_	_
+5	ağentlığı	_	_	_	_	_	_	_	_
+6	tarafınnan	_	_	_	_	_	_	_	_
+7	oyıştırılğan	_	_	_	_	_	_	_	_
+8	häm	_	_	_	_	_	_	_	_
+9	sayt	_	_	_	_	_	_	_	_
+10	buldıruçılarnıñ	_	_	_	_	_	_	_	_
+11	kübese	_	_	_	_	_	_	_	_
+12	qatnaşqan	_	_	_	_	_	_	_	_
+13	berençe	_	_	_	_	_	_	_	_
+14	Tatnet	_	_	_	_	_	_	_	_
+15	Forumı	_	_	_	_	_	_	_	_
+16	bulğan	_	_	_	_	_	_	_	_
+17	ide	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
 
-# sent_id =  19
+# sent_id =  19 
 # text =  Şunnan soñ 2004 - 2006 yıllarında "Tatmedia" ağentlığın qanatı astında tağın II, III häm IV Tatnet Forumnarı ütkän ide.
-1	Şunnan	_	ADV	_	_	_	_	_	Шуннан
-2	soñ	_	ADV	_	_	_	_	_	сон
-3	2004	_	_	_	_	_	_	_	2004
-4	-	_	_	_	_	_	_	_	-
-5	2006	_	_	_	_	_	_	_	2006
-6	yıllarında	_	NOUN	_	_	_	_	_	йилларинда
-7	"Tatmedia"	_	_	_	_	_	_	_	"Татмедиа"
-8	ağentlığın	_	NOUN	_	_	_	_	_	агентлигин
-9	qanatı	_	NOUN	_	_	_	_	_	канати
-10	astında	_	ADV	_	_	_	_	_	астинда
-11	tağın	_	ADV	_	_	_	_	_	тагин
-12	II	_	OTHER	_	_	_	_	_	ии
-13	,	_	PUNCT	_	_	_	_	_	,
-14	III	_	OTHER	_	_	_	_	_	иии
-15	häm	_	INTJ	_	_	_	_	_	hам
-16	IV	_	OTHER	_	_	_	_	_	иВ
-17	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-18	Forumnarı	_	NOUN	_	_	_	_	_	Форумнари
-19	ütkän	_	ADJ	_	_	_	_	_	үткан
-20	ide	_	VERB	_	_	_	_	_	иде
-21	.	_	PUNCT	_	_	_	_	_	.
+1	Şunnan	_	_	_	_	_	_	_	_
+2	soñ	_	_	_	_	_	_	_	_
+3	2004	_	_	_	_	_	_	_	_
+4	-	_	_	_	_	_	_	_	_
+5	2006	_	_	_	_	_	_	_	_
+6	yıllarında	_	_	_	_	_	_	_	_
+7	"Tatmedia"	_	_	_	_	_	_	_	_
+8	ağentlığın	_	_	_	_	_	_	_	_
+9	qanatı	_	_	_	_	_	_	_	_
+10	astında	_	_	_	_	_	_	_	_
+11	tağın	_	_	_	_	_	_	_	_
+12	II	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	III	_	_	_	_	_	_	_	_
+15	häm	_	_	_	_	_	_	_	_
+16	IV	_	_	_	_	_	_	_	_
+17	Tatnet	_	_	_	_	_	_	_	_
+18	Forumnarı	_	_	_	_	_	_	_	_
+19	ütkän	_	_	_	_	_	_	_	_
+20	ide	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
 
-# sent_id =  20
+# sent_id =  20 
 # text =  2004 yılnıñ 13 ğinwarında "Tatarstan Respublikındağı mäğlümati resurslar häm mäğlümatlaştıru turında" TR Qanunı qabul itelgän ide.
-1	2004	_	_	_	_	_	_	_	2004
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	13	_	_	_	_	_	_	_	13
-4	ğinwarında	_	NOUN	_	_	_	_	_	гинваринда
-5	"Tatarstan	_	_	_	_	_	_	_	"Татарстан
-6	Respublikındağı	_	NOUN	_	_	_	_	_	Республикиндаги
-7	mäğlümati	_	NOUN	_	_	_	_	_	маглүмати
-8	resurslar	_	NOUN	_	_	_	_	_	ресурслар
-9	häm	_	INTJ	_	_	_	_	_	hам
-10	mäğlümatlaştıru	_	VERB	_	_	_	_	_	маглүматлаштиру
-11	turında"	_	_	_	_	_	_	_	туринда"
-12	TR	_	OTHER	_	_	_	_	_	ТР
-13	Qanunı	_	NOUN	_	_	_	_	_	Кануни
-14	qabul	_	NOUN	_	_	_	_	_	кабул
-15	itelgän	_	ADJ	_	_	_	_	_	ителган
-16	ide	_	VERB	_	_	_	_	_	иде
-17	.	_	PUNCT	_	_	_	_	_	.
+1	2004	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	13	_	_	_	_	_	_	_	_
+4	ğinwarında	_	_	_	_	_	_	_	_
+5	"Tatarstan	_	_	_	_	_	_	_	_
+6	Respublikındağı	_	_	_	_	_	_	_	_
+7	mäğlümati	_	_	_	_	_	_	_	_
+8	resurslar	_	_	_	_	_	_	_	_
+9	häm	_	_	_	_	_	_	_	_
+10	mäğlümatlaştıru	_	_	_	_	_	_	_	_
+11	turında"	_	_	_	_	_	_	_	_
+12	TR	_	_	_	_	_	_	_	_
+13	Qanunı	_	_	_	_	_	_	_	_
+14	qabul	_	_	_	_	_	_	_	_
+15	itelgän	_	_	_	_	_	_	_	_
+16	ide	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
 
-# sent_id =  21
+# sent_id =  21 
 # text =  Şuşı qanunda däwlät tellärendäge resursların tigezle räweştä nigez buldıruı küzdä totılğan ide.
-1	Şuşı	_	PRON	_	_	_	_	_	Шуши
-2	qanunda	_	NOUN	_	_	_	_	_	канунда
-3	däwlät	_	NOUN	_	_	_	_	_	давлат
-4	tellärendäge	_	NOUN	_	_	_	_	_	телларендаге
-5	resursların	_	NOUN	_	_	_	_	_	ресурсларин
-6	tigezle	_	ADJ	_	_	_	_	_	тигезле
-7	räweştä	_	NOUN	_	_	_	_	_	равешта
-8	nigez	_	NOUN	_	_	_	_	_	нигез
-9	buldıruı	_	VERB	_	_	_	_	_	булдируи
-10	küzdä	_	NOUN	_	_	_	_	_	күзда
-11	totılğan	_	ADJ	_	_	_	_	_	тотилган
-12	ide	_	VERB	_	_	_	_	_	иде
-13	.	_	PUNCT	_	_	_	_	_	.
+1	Şuşı	_	_	_	_	_	_	_	_
+2	qanunda	_	_	_	_	_	_	_	_
+3	däwlät	_	_	_	_	_	_	_	_
+4	tellärendäge	_	_	_	_	_	_	_	_
+5	resursların	_	_	_	_	_	_	_	_
+6	tigezle	_	_	_	_	_	_	_	_
+7	räweştä	_	_	_	_	_	_	_	_
+8	nigez	_	_	_	_	_	_	_	_
+9	buldıruı	_	_	_	_	_	_	_	_
+10	küzdä	_	_	_	_	_	_	_	_
+11	totılğan	_	_	_	_	_	_	_	_
+12	ide	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
 
-# sent_id =  22
+# sent_id =  22 
 # text =  TRnıñ Elemtä ministrılığında "Tatarstan Respublikasındağı mäğlümatlaştıruın üsterü buyınça Komplekslı proğramma(2005-2010 yıllarındağı Elektron Tatarstan)" proektı eşläp çığarıla.
-1	TRnıñ	_	OTHER	_	_	_	_	_	ТРнин
-2	Elemtä	_	NOUN	_	_	_	_	_	Елемта
-3	ministrılığında	_	NOUN	_	_	_	_	_	министрилигинда
-4	"Tatarstan	_	_	_	_	_	_	_	"Татарстан
-5	Respublikasındağı	_	NOUN	_	_	_	_	_	Республикасиндаги
-6	mäğlümatlaştıruın	_	VERB	_	_	_	_	_	маглүматлаштируин
-7	üsterü	_	VERB	_	_	_	_	_	үстерү
-8	buyınça	_	ADV	_	_	_	_	_	буйинча
-9	Komplekslı	_	NOUN	_	_	_	_	_	комплексли
-10	proğramma	_	NOUN	_	_	_	_	_	программа
-11	(2005-2010	_	_	_	_	_	_	_	(2005-2010
-12	yıllarındağı	_	NOUN	_	_	_	_	_	йиллариндаги
-13	Elektron	_	NOUN	_	_	_	_	_	Електрон
-14	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-15	)"	_	_	_	_	_	_	_	)"
-16	proektı	_	NOUN	_	_	_	_	_	проекти
-17	eşläp	_	VERB	_	_	_	_	_	ешлап
-18	çığarıla	_	NOUN	_	_	_	_	_	чигарила
-19	.	_	PUNCT	_	_	_	_	_	.
+1	TRnıñ	_	_	_	_	_	_	_	_
+2	Elemtä	_	_	_	_	_	_	_	_
+3	ministrılığında	_	_	_	_	_	_	_	_
+4	"Tatarstan	_	_	_	_	_	_	_	_
+5	Respublikasındağı	_	_	_	_	_	_	_	_
+6	mäğlümatlaştıruın	_	_	_	_	_	_	_	_
+7	üsterü	_	_	_	_	_	_	_	_
+8	buyınça	_	_	_	_	_	_	_	_
+9	Komplekslı	_	_	_	_	_	_	_	_
+10	proğramma	_	_	_	_	_	_	_	_
+11	(2005-2010	_	_	_	_	_	_	_	_
+12	yıllarındağı	_	_	_	_	_	_	_	_
+13	Elektron	_	_	_	_	_	_	_	_
+14	Tatarstan	_	_	_	_	_	_	_	_
+15	)"	_	_	_	_	_	_	_	_
+16	proektı	_	_	_	_	_	_	_	_
+17	eşläp	_	_	_	_	_	_	_	_
+18	çığarıla	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
 
-# sent_id =  23
+# sent_id =  23 
 # text =  2004 yılnıñ yünendä Google.ru ezläw sistemı tatar telendäge ezläwen buldıra başlağan ide ((http://www.google.com/intl/tt/) häm tatar telendäge Wikipediä açılğan ide (http://tt.wikipedia.org/wiki/Täwge_Bit).
-1	2004	_	_	_	_	_	_	_	2004
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	yünendä	_	ADV	_	_	_	_	_	йүненда
-4	Google	_	NOUN	_	_	_	_	_	Гоогле
-5	.ru	_	_	_	_	_	_	_	.ру
-6	ezläw	_	NOUN	_	_	_	_	_	езлав
-7	sistemı	_	NOUN	_	_	_	_	_	системи
-8	tatar	_	ADJ	_	_	_	_	_	татар
-9	telendäge	_	NOUN	_	_	_	_	_	телендаге
-10	ezläwen	_	NOUN	_	_	_	_	_	езлавен
-11	buldıra	_	VERB	_	_	_	_	_	булдира
-12	başlağan	_	ADJ	_	_	_	_	_	башлаган
-13	ide	_	VERB	_	_	_	_	_	иде
-14		_	_	_	_	_	_	_
-15	(	_	PUNCT	_	_	_	_	_	(
-16	(http	_	_	_	_	_	_	_	(hттп
-17	:	_	PUNCT	_	_	_	_	_	:
-18	/	_	_	_	_	_	_	_	/
-19	/www	_	_	_	_	_	_	_	/ввв
-20	.google	_	_	_	_	_	_	_	.гоогле
-21	.com	_	_	_	_	_	_	_	.цом
-22	/intl	_	_	_	_	_	_	_	/интл
-23	/tt	_	_	_	_	_	_	_	/тт
-24	/	_	_	_	_	_	_	_	/
-25	)	_	PUNCT	_	_	_	_	_	)
-26	häm	_	INTJ	_	_	_	_	_	hам
-27	tatar	_	ADJ	_	_	_	_	_	татар
-28	telendäge	_	NOUN	_	_	_	_	_	телендаге
-29	Wikipediä	_	NOUN	_	_	_	_	_	Википедиа
-30	açılğan	_	ADJ	_	_	_	_	_	ачилган
-31	ide	_	VERB	_	_	_	_	_	иде
-32		_	_	_	_	_	_	_
-33	(http	_	_	_	_	_	_	_	(hттп
-34	:	_	PUNCT	_	_	_	_	_	:
-35	/	_	_	_	_	_	_	_	/
-36	/tt	_	_	_	_	_	_	_	/тт
-37	.wikipedia	_	_	_	_	_	_	_	.википедиа
-38	.org	_	_	_	_	_	_	_	.орг
-39	/wiki	_	_	_	_	_	_	_	/вики
-40	/Täwge_Bit	_	_	_	_	_	_	_	/Тавге_Бит
-41	)	_	PUNCT	_	_	_	_	_	)
-42	.	_	PUNCT	_	_	_	_	_	.
+1	2004	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	yünendä	_	_	_	_	_	_	_	_
+4	Google	_	_	_	_	_	_	_	_
+5	.ru	_	_	_	_	_	_	_	_
+6	ezläw	_	_	_	_	_	_	_	_
+7	sistemı	_	_	_	_	_	_	_	_
+8	tatar	_	_	_	_	_	_	_	_
+9	telendäge	_	_	_	_	_	_	_	_
+10	ezläwen	_	_	_	_	_	_	_	_
+11	buldıra	_	_	_	_	_	_	_	_
+12	başlağan	_	_	_	_	_	_	_	_
+13	ide	_	_	_	_	_	_	_	_
+14		_	_	_	_	_	_	_	_
+15	(	_	_	_	_	_	_	_	_
+16	(http	_	_	_	_	_	_	_	_
+17	:	_	_	_	_	_	_	_	_
+18	/	_	_	_	_	_	_	_	_
+19	/www	_	_	_	_	_	_	_	_
+20	.google	_	_	_	_	_	_	_	_
+21	.com	_	_	_	_	_	_	_	_
+22	/intl	_	_	_	_	_	_	_	_
+23	/tt	_	_	_	_	_	_	_	_
+24	/	_	_	_	_	_	_	_	_
+25	)	_	_	_	_	_	_	_	_
+26	häm	_	_	_	_	_	_	_	_
+27	tatar	_	_	_	_	_	_	_	_
+28	telendäge	_	_	_	_	_	_	_	_
+29	Wikipediä	_	_	_	_	_	_	_	_
+30	açılğan	_	_	_	_	_	_	_	_
+31	ide	_	_	_	_	_	_	_	_
+32		_	_	_	_	_	_	_	_
+33	(http	_	_	_	_	_	_	_	_
+34	:	_	_	_	_	_	_	_	_
+35	/	_	_	_	_	_	_	_	_
+36	/tt	_	_	_	_	_	_	_	_
+37	.wikipedia	_	_	_	_	_	_	_	_
+38	.org	_	_	_	_	_	_	_	_
+39	/wiki	_	_	_	_	_	_	_	_
+40	/Täwge_Bit	_	_	_	_	_	_	_	_
+41	)	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
 
-# sent_id =  24
+# sent_id =  24 
 # text =  2004 yılnıñ oktäberendä '2004 - 2013 yıllardağı Tatarstan Respublikasında Tatarstan Respublikası däwlät tellären häm başqa tellären saqlaw, öyränü häm üsterü buyınça Tatarstan Respublikınıñ Däwlät proğramması' qabul itelgän ide.
-1	2004	_	_	_	_	_	_	_	2004
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	oktäberendä	_	NOUN	_	_	_	_	_	октаберенда
-4	'2004	_	_	_	_	_	_	_	'2004
-5	-	_	_	_	_	_	_	_	-
-6	2013	_	_	_	_	_	_	_	2013
-7	yıllardağı	_	NOUN	_	_	_	_	_	йиллардаги
-8	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-9	Respublikasında	_	NOUN	_	_	_	_	_	Республикасинда
-10	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-11	Respublikası	_	NOUN	_	_	_	_	_	Республикаси
-12	däwlät	_	NOUN	_	_	_	_	_	давлат
-13	tellären	_	NOUN	_	_	_	_	_	телларен
-14	häm	_	INTJ	_	_	_	_	_	hам
-15	başqa	_	PRON	_	_	_	_	_	башка
-16	tellären	_	NOUN	_	_	_	_	_	телларен
-17	saqlaw	_	NOUN	_	_	_	_	_	саклав
-18	,	_	PUNCT	_	_	_	_	_	,
-19	öyränü	_	NOUN	_	_	_	_	_	өйранү
-20	häm	_	INTJ	_	_	_	_	_	hам
-21	üsterü	_	VERB	_	_	_	_	_	үстерү
-22	buyınça	_	ADV	_	_	_	_	_	буйинча
-23	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-24	Respublikınıñ	_	NOUN	_	_	_	_	_	Республикинин
-25	Däwlät	_	NOUN	_	_	_	_	_	Давлат
-26	proğramması'	_	_	_	_	_	_	_	программаси'
-27	qabul	_	NOUN	_	_	_	_	_	кабул
-28	itelgän	_	ADJ	_	_	_	_	_	ителган
-29	ide	_	VERB	_	_	_	_	_	иде
-30	.	_	PUNCT	_	_	_	_	_	.
+1	2004	_	_	_	_	_	_	_	_
+2	yılnıñ	_	_	_	_	_	_	_	_
+3	oktäberendä	_	_	_	_	_	_	_	_
+4	'2004	_	_	_	_	_	_	_	_
+5	-	_	_	_	_	_	_	_	_
+6	2013	_	_	_	_	_	_	_	_
+7	yıllardağı	_	_	_	_	_	_	_	_
+8	Tatarstan	_	_	_	_	_	_	_	_
+9	Respublikasında	_	_	_	_	_	_	_	_
+10	Tatarstan	_	_	_	_	_	_	_	_
+11	Respublikası	_	_	_	_	_	_	_	_
+12	däwlät	_	_	_	_	_	_	_	_
+13	tellären	_	_	_	_	_	_	_	_
+14	häm	_	_	_	_	_	_	_	_
+15	başqa	_	_	_	_	_	_	_	_
+16	tellären	_	_	_	_	_	_	_	_
+17	saqlaw	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	öyränü	_	_	_	_	_	_	_	_
+20	häm	_	_	_	_	_	_	_	_
+21	üsterü	_	_	_	_	_	_	_	_
+22	buyınça	_	_	_	_	_	_	_	_
+23	Tatarstan	_	_	_	_	_	_	_	_
+24	Respublikınıñ	_	_	_	_	_	_	_	_
+25	Däwlät	_	_	_	_	_	_	_	_
+26	proğramması'	_	_	_	_	_	_	_	_
+27	qabul	_	_	_	_	_	_	_	_
+28	itelgän	_	_	_	_	_	_	_	_
+29	ide	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
 
-# sent_id =  25
+# sent_id =  25 
 # text =  Şuşı proğrammada Tatnet üsterüenä ayırım öleş bülengän, şul isäptä mäğlümati texnoloğiälärdä tatar telen qullanu öçen sanaq standartların kertü häm kämilläşterü, tatar tele öçen draywer wä şriftların eşläp çığaruın däwam itü, xalıqara İnternet çeltärendä tatar telendäge härkem citärlek mäğlümati resursların üsterü häm daimi räweştä bulışu, fonoloğiä, morfoloğiä häm sintaqsis modellären üz eçenä alğan tatar teleneñ sanaq modelen, tieşle mäğlümati resursların da alarnı eşkärtü proğramnarın eşläwen däwam itü, tatar söylämen buldıru wä sizep alu sistemnarın eşläwen däwat itü häm başqalar.
-1	Şuşı	_	PRON	_	_	_	_	_	Шуши
-2	proğrammada	_	NOUN	_	_	_	_	_	программада
-3	Tatnet	_	NOUN	_	_	_	_	_	Татнет
-4	üsterüenä	_	VERB	_	_	_	_	_	үстерүена
-5	ayırım	_	NOUN	_	_	_	_	_	айирим
-6	öleş	_	NOUN	_	_	_	_	_	өлеш
-7	bülengän	_	ADJ	_	_	_	_	_	бүленган
-8	,	_	PUNCT	_	_	_	_	_	,
-9	şul	_	PRON	_	_	_	_	_	шул
-10	isäptä	_	NOUN	_	_	_	_	_	исапта
-11	mäğlümati	_	NOUN	_	_	_	_	_	маглүмати
-12	texnoloğiälärdä	_	NOUN	_	_	_	_	_	технологиаларда
-13	tatar	_	ADJ	_	_	_	_	_	татар
-14	telen	_	NOUN	_	_	_	_	_	телен
-15	qullanu	_	VERB	_	_	_	_	_	куллану
-16	öçen	_	CCONJ	_	_	_	_	_	өчен
-17	sanaq	_	NOUN	_	_	_	_	_	санак
-18	standartların	_	NOUN	_	_	_	_	_	стандартларин
-19	kertü	_	VERB	_	_	_	_	_	кертү
-20	häm	_	INTJ	_	_	_	_	_	hам
-21	kämilläşterü	_	ADJ	_	_	_	_	_	камиллаштерү
-22	,	_	PUNCT	_	_	_	_	_	,
-23	tatar	_	ADJ	_	_	_	_	_	татар
-24	tele	_	NOUN	_	_	_	_	_	теле
-25	öçen	_	CCONJ	_	_	_	_	_	өчен
-26	draywer	_	NOUN	_	_	_	_	_	драйвер
-27	wä	_	CCONJ	_	_	_	_	_	ва
-28	şriftların	_	NOUN	_	_	_	_	_	шрифтларин
-29	eşläp	_	VERB	_	_	_	_	_	ешлап
-30	çığaruın	_	NOUN	_	_	_	_	_	чигаруин
-31	däwam	_	NOUN	_	_	_	_	_	давам
-32	itü	_	ADJ	_	_	_	_	_	итү
-33	,	_	PUNCT	_	_	_	_	_	,
-34	xalıqara	_	ADJ	_	_	_	_	_	халикара
-35	İnternet	_	NOUN	_	_	_	_	_	интернет
-36	çeltärendä	_	NOUN	_	_	_	_	_	челтаренда
-37	tatar	_	ADJ	_	_	_	_	_	татар
-38	telendäge	_	NOUN	_	_	_	_	_	телендаге
-39	härkem	_	PRON	_	_	_	_	_	hаркем
-40	citärlek	_	NOUN	_	_	_	_	_	цитарлек
-41	mäğlümati	_	NOUN	_	_	_	_	_	маглүмати
-42	resursların	_	NOUN	_	_	_	_	_	ресурсларин
-43	üsterü	_	VERB	_	_	_	_	_	үстерү
-44	häm	_	INTJ	_	_	_	_	_	hам
-45	daimi	_	ADJ	_	_	_	_	_	даими
-46	räweştä	_	NOUN	_	_	_	_	_	равешта
-47	bulışu	_	VERB	_	_	_	_	_	булишу
-48	,	_	PUNCT	_	_	_	_	_	,
-49	fonoloğiä	_	NOUN	_	_	_	_	_	фонологиа
-50	,	_	PUNCT	_	_	_	_	_	,
-51	morfoloğiä	_	NOUN	_	_	_	_	_	морфологиа
-52	häm	_	INTJ	_	_	_	_	_	hам
-53	sintaqsis	_	NOUN	_	_	_	_	_	синтаксис
-54	modellären	_	NOUN	_	_	_	_	_	моделларен
-55	üz	_	PRON	_	_	_	_	_	үз
-56	eçenä	_	ADV	_	_	_	_	_	ечена
-57	alğan	_	VERB	_	_	_	_	_	алган
-58	tatar	_	ADJ	_	_	_	_	_	татар
-59	teleneñ	_	NOUN	_	_	_	_	_	теленен
-60	sanaq	_	NOUN	_	_	_	_	_	санак
-61	modelen	_	NOUN	_	_	_	_	_	моделен
-62	,	_	PUNCT	_	_	_	_	_	,
-63	tieşle	_	ADJ	_	_	_	_	_	тиешле
-64	mäğlümati	_	NOUN	_	_	_	_	_	маглүмати
-65	resursların	_	NOUN	_	_	_	_	_	ресурсларин
-66	da	_	OTHER	_	_	_	_	_	да
-67	alarnı	_	PRON	_	_	_	_	_	аларни
-68	eşkärtü	_	VERB	_	_	_	_	_	ешкартү
-69	proğramnarın	_	NOUN	_	_	_	_	_	програмнарин
-70	eşläwen	_	NOUN	_	_	_	_	_	ешлавен
-71	däwam	_	NOUN	_	_	_	_	_	давам
-72	itü	_	ADJ	_	_	_	_	_	итү
-73	,	_	PUNCT	_	_	_	_	_	,
-74	tatar	_	ADJ	_	_	_	_	_	татар
-75	söylämen	_	VERB	_	_	_	_	_	сөйламен
-76	buldıru	_	VERB	_	_	_	_	_	булдиру
-77	wä	_	CCONJ	_	_	_	_	_	ва
-78	sizep	_	VERB	_	_	_	_	_	сизеп
-79	alu	_	NOUN	_	_	_	_	_	алу
-80	sistemnarın	_	NOUN	_	_	_	_	_	системнарин
-81	eşläwen	_	NOUN	_	_	_	_	_	ешлавен
-82	däwat	_	NOUN	_	_	_	_	_	дават
-83	itü	_	ADJ	_	_	_	_	_	итү
-84	häm	_	INTJ	_	_	_	_	_	hам
-85	başqalar	_	PRON	_	_	_	_	_	башкалар
-86	.	_	PUNCT	_	_	_	_	_	.
+1	Şuşı	_	_	_	_	_	_	_	_
+2	proğrammada	_	_	_	_	_	_	_	_
+3	Tatnet	_	_	_	_	_	_	_	_
+4	üsterüenä	_	_	_	_	_	_	_	_
+5	ayırım	_	_	_	_	_	_	_	_
+6	öleş	_	_	_	_	_	_	_	_
+7	bülengän	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	şul	_	_	_	_	_	_	_	_
+10	isäptä	_	_	_	_	_	_	_	_
+11	mäğlümati	_	_	_	_	_	_	_	_
+12	texnoloğiälärdä	_	_	_	_	_	_	_	_
+13	tatar	_	_	_	_	_	_	_	_
+14	telen	_	_	_	_	_	_	_	_
+15	qullanu	_	_	_	_	_	_	_	_
+16	öçen	_	_	_	_	_	_	_	_
+17	sanaq	_	_	_	_	_	_	_	_
+18	standartların	_	_	_	_	_	_	_	_
+19	kertü	_	_	_	_	_	_	_	_
+20	häm	_	_	_	_	_	_	_	_
+21	kämilläşterü	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	tatar	_	_	_	_	_	_	_	_
+24	tele	_	_	_	_	_	_	_	_
+25	öçen	_	_	_	_	_	_	_	_
+26	draywer	_	_	_	_	_	_	_	_
+27	wä	_	_	_	_	_	_	_	_
+28	şriftların	_	_	_	_	_	_	_	_
+29	eşläp	_	_	_	_	_	_	_	_
+30	çığaruın	_	_	_	_	_	_	_	_
+31	däwam	_	_	_	_	_	_	_	_
+32	itü	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	xalıqara	_	_	_	_	_	_	_	_
+35	İnternet	_	_	_	_	_	_	_	_
+36	çeltärendä	_	_	_	_	_	_	_	_
+37	tatar	_	_	_	_	_	_	_	_
+38	telendäge	_	_	_	_	_	_	_	_
+39	härkem	_	_	_	_	_	_	_	_
+40	citärlek	_	_	_	_	_	_	_	_
+41	mäğlümati	_	_	_	_	_	_	_	_
+42	resursların	_	_	_	_	_	_	_	_
+43	üsterü	_	_	_	_	_	_	_	_
+44	häm	_	_	_	_	_	_	_	_
+45	daimi	_	_	_	_	_	_	_	_
+46	räweştä	_	_	_	_	_	_	_	_
+47	bulışu	_	_	_	_	_	_	_	_
+48	,	_	_	_	_	_	_	_	_
+49	fonoloğiä	_	_	_	_	_	_	_	_
+50	,	_	_	_	_	_	_	_	_
+51	morfoloğiä	_	_	_	_	_	_	_	_
+52	häm	_	_	_	_	_	_	_	_
+53	sintaqsis	_	_	_	_	_	_	_	_
+54	modellären	_	_	_	_	_	_	_	_
+55	üz	_	_	_	_	_	_	_	_
+56	eçenä	_	_	_	_	_	_	_	_
+57	alğan	_	_	_	_	_	_	_	_
+58	tatar	_	_	_	_	_	_	_	_
+59	teleneñ	_	_	_	_	_	_	_	_
+60	sanaq	_	_	_	_	_	_	_	_
+61	modelen	_	_	_	_	_	_	_	_
+62	,	_	_	_	_	_	_	_	_
+63	tieşle	_	_	_	_	_	_	_	_
+64	mäğlümati	_	_	_	_	_	_	_	_
+65	resursların	_	_	_	_	_	_	_	_
+66	da	_	_	_	_	_	_	_	_
+67	alarnı	_	_	_	_	_	_	_	_
+68	eşkärtü	_	_	_	_	_	_	_	_
+69	proğramnarın	_	_	_	_	_	_	_	_
+70	eşläwen	_	_	_	_	_	_	_	_
+71	däwam	_	_	_	_	_	_	_	_
+72	itü	_	_	_	_	_	_	_	_
+73	,	_	_	_	_	_	_	_	_
+74	tatar	_	_	_	_	_	_	_	_
+75	söylämen	_	_	_	_	_	_	_	_
+76	buldıru	_	_	_	_	_	_	_	_
+77	wä	_	_	_	_	_	_	_	_
+78	sizep	_	_	_	_	_	_	_	_
+79	alu	_	_	_	_	_	_	_	_
+80	sistemnarın	_	_	_	_	_	_	_	_
+81	eşläwen	_	_	_	_	_	_	_	_
+82	däwat	_	_	_	_	_	_	_	_
+83	itü	_	_	_	_	_	_	_	_
+84	häm	_	_	_	_	_	_	_	_
+85	başqalar	_	_	_	_	_	_	_	_
+86	.	_	_	_	_	_	_	_	_
 
-# sent_id =  26
-# text =  2005 yılnıñ mayında "Tatar İnternetı" ictimağıy oyışması milli .TS isemle berençe däräcäle häm .TAT isemle tabışlı domennarın buldıru buyınça planı turında xäbär itkän ide.
-1	2005	_	_	_	_	_	_	_	2005
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	mayında	_	_	_	_	_	_	_	майинда
-4	"Tatar	_	_	_	_	_	_	_	"Татар
-5	İnternetı"	_	_	_	_	_	_	_	интернети"
-6	ictimağıy	_	_	_	_	_	_	_	ицтимагий
-7	oyışması	_	_	_	_	_	_	_	ойишмаси
-8	milli	_	_	_	_	_	_	_	милли
-9		_	_	_	_	_	_	_
-10	.TS	_	_	_	_	_	_	_	.ТС
-11	isemle	_	ADJ	_	_	_	_	_	исемле
-12	berençe	_	NUM	_	_	_	_	_	беренче
-13	däräcäle	_	_	_	_	_	_	_	дарацале
-14	häm	_	INTJ	_	_	_	_	_	hам
-15		_	_	_	_	_	_	_
-16	.TAT	_	_	_	_	_	_	_	.ТАТ
-17	isemle	_	ADJ	_	_	_	_	_	исемле
-18	tabışlı	_	_	_	_	_	_	_	табишли
-19	domennarın	_	_	_	_	_	_	_	доменнарин
-20	buldıru	_	VERB	_	_	_	_	_	булдиру
-21	buyınça	_	ADV	_	_	_	_	_	буйинча
-22	planı	_	_	_	_	_	_	_	плани
-23	turında	_	SCONJ	_	_	_	_	_	туринда
-24	xäbär	_	NOUN	_	_	_	_	_	хабар
-25	itkän	_	_	_	_	_	_	_	иткан
-26	ide	_	VERB	_	_	_	_	_	иде
-27	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  28
-# text =  2005 yılnıñ awgustında "Sentr" CÇC (Qazan şähäre) Rusiädäge AltLinux şirkäte berlektä Tatarstan Respublikası Mäğlümatlaştıru häm elemtä ministrlığı yärdämendä tatar telenä AltLinux Linux v2.4 (KDE aslığı) operatsion sistemı häm Mozilla Firefox wä Mozilla Thunderbird bäyläneş quşımtaların illäşterü proektın eşläp çığarğannar.
-1	2005	_	_	_	_	_	_	_	2005
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	awgustında	_	_	_	_	_	_	_	августинда
-4	"Sentr"	_	_	_	_	_	_	_	"Сентр"
-5	CÇC	_	_	_	_	_	_	_	ЦЧЦ
-6		_	_	_	_	_	_	_
-7	(Qazan	_	_	_	_	_	_	_	(Казан
-8	şähäre	_	_	_	_	_	_	_	шаhаре
-9	)	_	PUNCT	_	_	_	_	_	)
-10	Rusiädäge	_	_	_	_	_	_	_	Русиадаге
-11	AltLinux	_	_	_	_	_	_	_	Алтлинух
-12	şirkäte	_	_	_	_	_	_	_	ширкате
-13	berlektä	_	_	_	_	_	_	_	берлекта
-14	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-15	Respublikası	_	NOUN	_	_	_	_	_	Республикаси
-16	Mäğlümatlaştıru	_	_	_	_	_	_	_	Маглүматлаштиру
-17	häm	_	INTJ	_	_	_	_	_	hам
-18	elemtä	_	NOUN	_	_	_	_	_	елемта
-19	ministrlığı	_	_	_	_	_	_	_	министрлиги
-20	yärdämendä	_	_	_	_	_	_	_	йардаменда
-21	tatar	_	ADJ	_	_	_	_	_	татар
-22	telenä	_	_	_	_	_	_	_	телена
-23	AltLinux	_	_	_	_	_	_	_	Алтлинух
-24	Linux	_	_	_	_	_	_	_	линух
-25	v2	_	_	_	_	_	_	_	в2
-26	.4	_	_	_	_	_	_	_	.4
-27		_	_	_	_	_	_	_
-28	(KDE	_	_	_	_	_	_	_	(кДЕ
-29	aslığı	_	_	_	_	_	_	_	аслиги
-30	)	_	PUNCT	_	_	_	_	_	)
-31	operatsion	_	_	_	_	_	_	_	оператсион
-32	sistemı	_	NOUN	_	_	_	_	_	системи
-33	häm	_	INTJ	_	_	_	_	_	hам
-34	Mozilla	_	_	_	_	_	_	_	Мозилла
-35	Firefox	_	_	_	_	_	_	_	Фирефох
-36	wä	_	CCONJ	_	_	_	_	_	ва
-37	Mozilla	_	_	_	_	_	_	_	Мозилла
-38	Thunderbird	_	_	_	_	_	_	_	Тhундербирд
-39	bäyläneş	_	_	_	_	_	_	_	байланеш
-40	quşımtaların	_	_	_	_	_	_	_	кушимталарин
-41	illäşterü	_	_	_	_	_	_	_	иллаштерү
-42	proektın	_	_	_	_	_	_	_	проектин
-43	eşläp	_	VERB	_	_	_	_	_	ешлап
-44	çığarğannar	_	_	_	_	_	_	_	чигарганнар
-45	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  30
-# text =  Şulay uq, MicrosoftRus şirkäte tatar telenä Microsoft XP operatsion sistemın illäştergän.
-1	Şulay	_	_	_	_	_	_	_	Шулай
-2	uq	_	_	_	_	_	_	_	ук
-3	,	_	PUNCT	_	_	_	_	_	,
-4	MicrosoftRus	_	_	_	_	_	_	_	МицрософтРус
-5	şirkäte	_	_	_	_	_	_	_	ширкате
-6	tatar	_	ADJ	_	_	_	_	_	татар
-7	telenä	_	_	_	_	_	_	_	телена
-8	Microsoft	_	_	_	_	_	_	_	Мицрософт
-9	XP	_	_	_	_	_	_	_	ХП
-10	operatsion	_	_	_	_	_	_	_	оператсион
-11	sistemın	_	_	_	_	_	_	_	системин
-12	illäştergän	_	_	_	_	_	_	_	иллаштерган
-13	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  31
-# text =  Ximiä:
-1	Ximiä	_	_	_	_	_	_	_	Химиа
-2	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  32
-# text =  Ximiä ul ximik mätdä häm quşılmasınıñ tözeleş, üzençälek, totaşıluın häm reaksiäsen öyränä torğan fän.
-1	Ximiä	_	_	_	_	_	_	_	Химиа
-2	ul	_	PRON	_	_	_	_	_	ул
-3	ximik	_	_	_	_	_	_	_	химик
-4	mätdä	_	_	_	_	_	_	_	матда
-5	häm	_	INTJ	_	_	_	_	_	hам
-6	quşılmasınıñ	_	_	_	_	_	_	_	кушилмасинин
-7	tözeleş	_	_	_	_	_	_	_	төзелеш
-8	,	_	PUNCT	_	_	_	_	_	,
-9	üzençälek	_	_	_	_	_	_	_	үзенчалек
-10	,	_	PUNCT	_	_	_	_	_	,
-11	totaşıluın	_	_	_	_	_	_	_	тоташилуин
-12	häm	_	INTJ	_	_	_	_	_	hам
-13	reaksiäsen	_	_	_	_	_	_	_	реаксиасен
-14	öyränä	_	_	_	_	_	_	_	өйрана
-15	torğan	_	VERB	_	_	_	_	_	торган
-16	fän	_	_	_	_	_	_	_	фан
-17	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  33
-# text =  Ximiä büleneşe.
-1	Ximiä	_	_	_	_	_	_	_	Химиа
-2	büleneşe	_	_	_	_	_	_	_	бүленеше
-3	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  34
-# text =  Ximiä ğädättä berniçä töp törenä bülenä.
-1	Ximiä	_	_	_	_	_	_	_	Химиа
-2	ğädättä	_	_	_	_	_	_	_	гадатта
-3	berniçä	_	_	_	_	_	_	_	бернича
-4	töp	_	_	_	_	_	_	_	төп
-5	törenä	_	_	_	_	_	_	_	төрена
-6	bülenä	_	_	_	_	_	_	_	бүлена
-7	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  35
-# text =  Şulay uq berniçä törara häm maxsus bülemnäre bar.
-1	Şulay	_	_	_	_	_	_	_	Шулай
-2	uq	_	_	_	_	_	_	_	ук
-3	berniçä	_	_	_	_	_	_	_	бернича
-4	törara	_	_	_	_	_	_	_	төрара
-5	häm	_	INTJ	_	_	_	_	_	hам
-6	maxsus	_	_	_	_	_	_	_	махсус
-7	bülemnäre	_	_	_	_	_	_	_	бүлемнаре
-8	bar	_	_	_	_	_	_	_	бар
-9	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  36
-# text =  Ximiä tarixı.
-1	Ximiä	_	_	_	_	_	_	_	Химиа
-2	tarixı	_	_	_	_	_	_	_	тарихи
-3	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  37
-# text =  Ximiä ul bik iske süz häm Ğäräpçädä ul "al-ximiä" atala: "üzgärtü sänğäte".
-1	Ximiä	_	_	_	_	_	_	_	Химиа
-2	ul	_	PRON	_	_	_	_	_	ул
-3	bik	_	ADV	_	_	_	_	_	бик
-4	iske	_	_	_	_	_	_	_	иске
-5	süz	_	_	_	_	_	_	_	сүз
-6	häm	_	INTJ	_	_	_	_	_	hам
-7	Ğäräpçädä	_	_	_	_	_	_	_	Гарапчада
-8	ul	_	PRON	_	_	_	_	_	ул
-9	"al-ximiä"	_	_	_	_	_	_	_	"ал-химиа"
-10	atala	_	_	_	_	_	_	_	атала
-11	:	_	PUNCT	_	_	_	_	_	:
-12	"üzgärtü	_	_	_	_	_	_	_	"үзгартү
-13	sänğäte"	_	_	_	_	_	_	_	сангате"
-14	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  38
-# text =  İske Frantsuzçada ul "alkemie" atala.
-1	İske	_	_	_	_	_	_	_	иске
-2	Frantsuzçada	_	_	_	_	_	_	_	Франтсузчада
-3	ul	_	PRON	_	_	_	_	_	ул
-4	"alkemie"	_	_	_	_	_	_	_	"алкемие"
-5	atala	_	_	_	_	_	_	_	атала
-6	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  39
-# text =  Islamda öylänü:
-1	Islamda	_	_	_	_	_	_	_	исламда
-2	öylänü	_	_	_	_	_	_	_	өйланү
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  40
-# text =  İr häm xatınnıñ bergä yäşäwe möhim íctímağí institüt bulıp tora.
-1	İr	_	_	_	_	_	_	_	ир
-2	häm	_	INTJ	_	_	_	_	_	hам
-3	xatınnıñ	_	_	_	_	_	_	_	хатиннин
-4	bergä	_	ADV	_	_	_	_	_	берга
-5	yäşäwe	_	_	_	_	_	_	_	йашаве
-6	möhim	_	_	_	_	_	_	_	мөhим
-7	íctímağí	_	_	_	_	_	_	_	ицтимаги
-8	institüt	_	_	_	_	_	_	_	инститүт
-9	bulıp	_	_	_	_	_	_	_	булип
-10	tora	_	_	_	_	_	_	_	тора
-11	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  41
-# text =  Äxläqsezlektän qotılu öçen, ğäliäsen tota alğan här yäş keşe öylänergä tieş.
-1	Äxläqsezlektän	_	_	_	_	_	_	_	Ахлаксезлектан
-2	qotılu	_	_	_	_	_	_	_	котилу
-3	öçen	_	CCONJ	_	_	_	_	_	өчен
-4	,	_	PUNCT	_	_	_	_	_	,
-5	ğäliäsen	_	_	_	_	_	_	_	галиасен
-6	tota	_	_	_	_	_	_	_	тота
-7	alğan	_	VERB	_	_	_	_	_	алган
-8	här	_	_	_	_	_	_	_	hар
-9	yäş	_	_	_	_	_	_	_	йаш
-10	keşe	_	_	_	_	_	_	_	кеше
-11	öylänergä	_	_	_	_	_	_	_	өйланерга
-12	tieş	_	_	_	_	_	_	_	тиеш
-13	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  42
-# text =  Íslam küzlegennän qarağanda, níqaxlaşmaw – äşäkelek.
-1	Íslam	_	_	_	_	_	_	_	ислам
-2	küzlegennän	_	_	_	_	_	_	_	күзлегеннан
-3	qarağanda	_	_	_	_	_	_	_	караганда
-4	,	_	PUNCT	_	_	_	_	_	,
-5	níqaxlaşmaw	_	_	_	_	_	_	_	никахлашмав
-6	–	_	_	_	_	_	_	_	–
-7	äşäkelek	_	_	_	_	_	_	_	ашакелек
-8	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  43
-# text =  Ul ğına da tügel, ike keşeneñ mäxäbbäten arttıru öçen ir belän xatın bulıp yäşäwdän dä yaxşırağı yuq.
-1	Ul	_	_	_	_	_	_	_	Ул
-2	ğına	_	_	_	_	_	_	_	гина
-3	da	_	OTHER	_	_	_	_	_	да
-4	tügel	_	_	_	_	_	_	_	түгел
-5	,	_	PUNCT	_	_	_	_	_	,
-6	ike	_	_	_	_	_	_	_	ике
-7	keşeneñ	_	_	_	_	_	_	_	кешенен
-8	mäxäbbäten	_	_	_	_	_	_	_	махаббатен
-9	arttıru	_	_	_	_	_	_	_	арттиру
-10	öçen	_	CCONJ	_	_	_	_	_	өчен
-11	ir	_	_	_	_	_	_	_	ир
-12	belän	_	SCONJ	_	_	_	_	_	белан
-13	xatın	_	_	_	_	_	_	_	хатин
-14	bulıp	_	_	_	_	_	_	_	булип
-15	yäşäwdän	_	_	_	_	_	_	_	йашавдан
-16	dä	_	_	_	_	_	_	_	да
-17	yaxşırağı	_	_	_	_	_	_	_	йахшираги
-18	yuq	_	_	_	_	_	_	_	йук
-19	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  44
-# text =  Mätdi xäle naçar buluı arqasında öylänä almí qalğan keşelärgä isä, censi omtılışlarnı basar öçen, waqıt-waqıt uraza totarğa kiñäş itelä.
-1	Mätdi	_	_	_	_	_	_	_	Матди
-2	xäle	_	_	_	_	_	_	_	хале
-3	naçar	_	_	_	_	_	_	_	начар
-4	buluı	_	_	_	_	_	_	_	булуи
-5	arqasında	_	_	_	_	_	_	_	аркасинда
-6	öylänä	_	_	_	_	_	_	_	өйлана
-7	almí	_	_	_	_	_	_	_	алми
-8	qalğan	_	_	_	_	_	_	_	калган
-9	keşelärgä	_	_	_	_	_	_	_	кешеларга
-10	isä	_	_	_	_	_	_	_	иса
-11	,	_	PUNCT	_	_	_	_	_	,
-12	censi	_	_	_	_	_	_	_	ценси
-13	omtılışlarnı	_	_	_	_	_	_	_	омтилишларни
-14	basar	_	_	_	_	_	_	_	басар
-15	öçen	_	CCONJ	_	_	_	_	_	өчен
-16	,	_	PUNCT	_	_	_	_	_	,
-17	waqıt-waqıt	_	_	_	_	_	_	_	вакит-вакит
-18	uraza	_	_	_	_	_	_	_	ураза
-19	totarğa	_	_	_	_	_	_	_	тотарга
-20	kiñäş	_	_	_	_	_	_	_	кинаш
-21	itelä	_	_	_	_	_	_	_	итела
-22	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  45
-# text =  Ägär möselman, mätdi yaqtan tä'min itelep tä, öylänergä telämäsä häm moña moxtaclıq kürmäsä, anıñ öylänmäwe ğäyep sanalmí.
-1	Ägär	_	_	_	_	_	_	_	Агар
-2	möselman	_	_	_	_	_	_	_	мөселман
-3	,	_	PUNCT	_	_	_	_	_	,
-4	mätdi	_	_	_	_	_	_	_	матди
-5	yaqtan	_	_	_	_	_	_	_	йактан
-6	tä'min	_	_	_	_	_	_	_	та'мин
-7	itelep	_	_	_	_	_	_	_	ителеп
-8	tä	_	OTHER	_	_	_	_	_	та
-9	,	_	PUNCT	_	_	_	_	_	,
-10	öylänergä	_	_	_	_	_	_	_	өйланерга
-11	telämäsä	_	_	_	_	_	_	_	теламаса
-12	häm	_	INTJ	_	_	_	_	_	hам
-13	moña	_	_	_	_	_	_	_	мона
-14	moxtaclıq	_	_	_	_	_	_	_	мохтацлик
-15	kürmäsä	_	_	_	_	_	_	_	күрмаса
-16	,	_	PUNCT	_	_	_	_	_	,
-17	anıñ	_	_	_	_	_	_	_	анин
-18	öylänmäwe	_	_	_	_	_	_	_	өйланмаве
-19	ğäyep	_	_	_	_	_	_	_	гайеп
-20	sanalmí	_	_	_	_	_	_	_	саналми
-21	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  46
-# text =  Xatın-qıznıñ ir saylağandağı xoquqları häm burıçları.
-1	Xatın-qıznıñ	_	_	_	_	_	_	_	Хатин-кизнин
-2	ir	_	_	_	_	_	_	_	ир
-3	saylağandağı	_	_	_	_	_	_	_	сайлагандаги
-4	xoquqları	_	_	_	_	_	_	_	хокуклари
-5	häm	_	INTJ	_	_	_	_	_	hам
-6	burıçları	_	_	_	_	_	_	_	буричлари
-7	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  47
-# text =  Xatın-qız blgele ber ir-atqa kiäwgä çığu-çıqmaw xoquğınnan faydalanırğa tieş, şunıñ östenä ul aldan kürüçänlek häm ziräklek kürsätergä burıçlı.
-1	Xatın-qız	_	_	_	_	_	_	_	Хатин-киз
-2	blgele	_	_	_	_	_	_	_	блгеле
-3	ber	_	_	_	_	_	_	_	бер
-4	ir-atqa	_	_	_	_	_	_	_	ир-атка
-5	kiäwgä	_	_	_	_	_	_	_	киавга
-6	çığu-çıqmaw	_	_	_	_	_	_	_	чигу-чикмав
-7	xoquğınnan	_	_	_	_	_	_	_	хокугиннан
-8	faydalanırğa	_	_	_	_	_	_	_	файдаланирга
-9	tieş	_	_	_	_	_	_	_	тиеш
-10	,	_	PUNCT	_	_	_	_	_	,
-11	şunıñ	_	_	_	_	_	_	_	шунин
-12	östenä	_	_	_	_	_	_	_	өстена
-13	ul	_	PRON	_	_	_	_	_	ул
-14	aldan	_	_	_	_	_	_	_	алдан
-15	kürüçänlek	_	_	_	_	_	_	_	күрүчанлек
-16	häm	_	INTJ	_	_	_	_	_	hам
-17	ziräklek	_	_	_	_	_	_	_	зираклек
-18	kürsätergä	_	_	_	_	_	_	_	күрсатерга
-19	burıçlı	_	_	_	_	_	_	_	буричли
-20	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  48
-# text =  Bulaçaq irneñ yaxşı sífatları anıñ bay buluı, cämgiättä abruy qazanuı häm yaxşı eşe genä dä tügellegen onıtmasqa kiräk.
-1	Bulaçaq	_	_	_	_	_	_	_	Булачак
-2	irneñ	_	_	_	_	_	_	_	ирнен
-3	yaxşı	_	_	_	_	_	_	_	йахши
-4	sífatları	_	_	_	_	_	_	_	сифатлари
-5	anıñ	_	_	_	_	_	_	_	анин
-6	bay	_	_	_	_	_	_	_	бай
-7	buluı	_	_	_	_	_	_	_	булуи
-8	,	_	PUNCT	_	_	_	_	_	,
-9	cämgiättä	_	_	_	_	_	_	_	цамгиатта
-10	abruy	_	_	_	_	_	_	_	абруй
-11	qazanuı	_	_	_	_	_	_	_	казануи
-12	häm	_	INTJ	_	_	_	_	_	hам
-13	yaxşı	_	_	_	_	_	_	_	йахши
-14	eşe	_	_	_	_	_	_	_	еше
-15	genä	_	_	_	_	_	_	_	гена
-16	dä	_	_	_	_	_	_	_	да
-17	tügellegen	_	_	_	_	_	_	_	түгеллеген
-18	onıtmasqa	_	_	_	_	_	_	_	онитмаска
-19	kiräk	_	_	_	_	_	_	_	кирак
-20	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  49
-# text =  Níqax.
-1	Níqax	_	_	_	_	_	_	_	Никах
-2	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  50
-# text =  Taşlı Yar:
-1	Taşlı	_	_	_	_	_	_	_	Ташли
-2	Yar	_	_	_	_	_	_	_	Йар
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  51
-# text =  Taşlı Yar – Mamadış yanında urnaşılğan ber awıl.
-1	Taşlı	_	_	_	_	_	_	_	Ташли
-2	Yar	_	_	_	_	_	_	_	Йар
-3	–	_	_	_	_	_	_	_	–
-4	Mamadış	_	_	_	_	_	_	_	Мамадиш
-5	yanında	_	_	_	_	_	_	_	йанинда
-6	urnaşılğan	_	_	_	_	_	_	_	урнашилган
-7	ber	_	_	_	_	_	_	_	бер
-8	awıl	_	_	_	_	_	_	_	авил
-9	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  53
-# text =  İsemennän küräbez, ul yılğa yarında urnaşılğan, häm ul çınlap ta taşlı.
-1	İsemennän	_	_	_	_	_	_	_	исеменнан
-2	küräbez	_	_	_	_	_	_	_	күрабез
-3	,	_	PUNCT	_	_	_	_	_	,
-4	ul	_	PRON	_	_	_	_	_	ул
-5	yılğa	_	_	_	_	_	_	_	йилга
-6	yarında	_	_	_	_	_	_	_	йаринда
-7	urnaşılğan	_	_	_	_	_	_	_	урнашилган
-8	,	_	PUNCT	_	_	_	_	_	,
-9	häm	_	INTJ	_	_	_	_	_	hам
-10	ul	_	PRON	_	_	_	_	_	ул
-11	çınlap	_	_	_	_	_	_	_	чинлап
-12	ta	_	OTHER	_	_	_	_	_	та
-13	taşlı	_	_	_	_	_	_	_	ташли
-14	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  54
-# text =  Yılğanıñ iseme – Şía.
-1	Yılğanıñ	_	_	_	_	_	_	_	Йилганин
-2	iseme	_	_	_	_	_	_	_	исеме
-3	–	_	_	_	_	_	_	_	–
-4	Şía	_	_	_	_	_	_	_	Шиа
-5	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  55
-# text =  Urıslar awılğa «Novoe Motçalkino» isemen quşqannar, ämma anda yäşän Keräşen Tatarları anı barıber iskeçä yäğni «Taşlı Yar» dip atílar.
-1	Urıslar	_	_	_	_	_	_	_	Урислар
-2	awılğa	_	_	_	_	_	_	_	авилга
-3	«Novoe	_	_	_	_	_	_	_	«Новое
-4	Motçalkino»	_	_	_	_	_	_	_	Мотчалкино»
-5	isemen	_	_	_	_	_	_	_	исемен
-6	quşqannar	_	_	_	_	_	_	_	кушканнар
-7	,	_	PUNCT	_	_	_	_	_	,
-8	ämma	_	_	_	_	_	_	_	амма
-9	anda	_	_	_	_	_	_	_	анда
-10	yäşän	_	_	_	_	_	_	_	йашан
-11	Keräşen	_	_	_	_	_	_	_	керашен
-12	Tatarları	_	NOUN	_	_	_	_	_	Татарлари
-13	anı	_	_	_	_	_	_	_	ани
-14	barıber	_	_	_	_	_	_	_	барибер
-15	iskeçä	_	_	_	_	_	_	_	искеча
-16	yäğni	_	_	_	_	_	_	_	йагни
-17	«Taşlı	_	_	_	_	_	_	_	«Ташли
-18	Yar»	_	_	_	_	_	_	_	Йар»
-19	dip	_	_	_	_	_	_	_	дип
-20	atílar	_	_	_	_	_	_	_	атилар
-21	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  56
-# text =  Sovet çorında urıslar awıl yanında duñğız férmısın yasarğa ämer birgännär, häm şunnan soñ ğına awılda torğan Keräşen Tatarları duñğıznı asrí başladı.
-1	Sovet	_	_	_	_	_	_	_	Совет
-2	çorında	_	_	_	_	_	_	_	чоринда
-3	urıslar	_	_	_	_	_	_	_	урислар
-4	awıl	_	_	_	_	_	_	_	авил
-5	yanında	_	_	_	_	_	_	_	йанинда
-6	duñğız	_	_	_	_	_	_	_	дунгиз
-7	férmısın	_	_	_	_	_	_	_	фермисин
-8	yasarğa	_	_	_	_	_	_	_	йасарга
-9	ämer	_	_	_	_	_	_	_	амер
-10	birgännär	_	_	_	_	_	_	_	бирганнар
-11	,	_	PUNCT	_	_	_	_	_	,
-12	häm	_	INTJ	_	_	_	_	_	hам
-13	şunnan	_	_	_	_	_	_	_	шуннан
-14	soñ	_	ADV	_	_	_	_	_	сон
-15	ğına	_	_	_	_	_	_	_	гина
-16	awılda	_	_	_	_	_	_	_	авилда
-17	torğan	_	VERB	_	_	_	_	_	торган
-18	Keräşen	_	_	_	_	_	_	_	керашен
-19	Tatarları	_	NOUN	_	_	_	_	_	Татарлари
-20	duñğıznı	_	_	_	_	_	_	_	дунгизни
-21	asrí	_	_	_	_	_	_	_	асри
-22	başladı	_	_	_	_	_	_	_	башлади
-23	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  57
-# text =  Moña xätle alar duñğızlarnı asramağannar.
-1	Moña	_	_	_	_	_	_	_	Мона
-2	xätle	_	_	_	_	_	_	_	хатле
-3	alar	_	_	_	_	_	_	_	алар
-4	duñğızlarnı	_	_	_	_	_	_	_	дунгизларни
-5	asramağannar	_	_	_	_	_	_	_	асрамаганнар
-6	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  58
-# text =  İslam ädäbe:
-1	İslam	_	_	_	_	_	_	_	ислам
-2	ädäbe	_	_	_	_	_	_	_	адабе
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  59
-# text =  Ädäp – Ğäräp süze, ğädätne añlata, moña tärbiä, yaxşı xolıq, üz-üzeñne tota belüçänlek, keşelär belän aralaşa belü töşençäläle kerä.
-1	Ädäp	_	_	_	_	_	_	_	Адап
-2	–	_	_	_	_	_	_	_	–
-3	Ğäräp	_	_	_	_	_	_	_	Гарап
-4	süze	_	_	_	_	_	_	_	сүзе
-5	,	_	PUNCT	_	_	_	_	_	,
-6	ğädätne	_	_	_	_	_	_	_	гадатне
-7	añlata	_	_	_	_	_	_	_	анлата
-8	,	_	PUNCT	_	_	_	_	_	,
-9	moña	_	_	_	_	_	_	_	мона
-10	tärbiä	_	_	_	_	_	_	_	тарбиа
-11	,	_	PUNCT	_	_	_	_	_	,
-12	yaxşı	_	_	_	_	_	_	_	йахши
-13	xolıq	_	_	_	_	_	_	_	холик
-14	,	_	PUNCT	_	_	_	_	_	,
-15	üz-üzeñne	_	_	_	_	_	_	_	үз-үзенне
-16	tota	_	_	_	_	_	_	_	тота
-17	belüçänlek	_	_	_	_	_	_	_	белүчанлек
-18	,	_	PUNCT	_	_	_	_	_	,
-19	keşelär	_	_	_	_	_	_	_	кешелар
-20	belän	_	SCONJ	_	_	_	_	_	белан
-21	aralaşa	_	_	_	_	_	_	_	аралаша
-22	belü	_	_	_	_	_	_	_	белү
-23	töşençäläle	_	_	_	_	_	_	_	төшенчалале
-24	kerä	_	_	_	_	_	_	_	кера
-25	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  60
-# text =  İslam qabul itelgän soñ ütkän ike ğasır dawamında «ädäp» süze ictimağıy ähämiätkä iä bula.
-1	İslam	_	_	_	_	_	_	_	ислам
-2	qabul	_	NOUN	_	_	_	_	_	кабул
-3	itelgän	_	ADJ	_	_	_	_	_	ителган
-4	soñ	_	ADV	_	_	_	_	_	сон
-5	ütkän	_	ADJ	_	_	_	_	_	үткан
-6	ike	_	_	_	_	_	_	_	ике
-7	ğasır	_	_	_	_	_	_	_	гасир
-8	dawamında	_	_	_	_	_	_	_	даваминда
-9	«ädäp»	_	_	_	_	_	_	_	«адап»
-10	süze	_	_	_	_	_	_	_	сүзе
-11	ictimağıy	_	_	_	_	_	_	_	ицтимагий
-12	ähämiätkä	_	_	_	_	_	_	_	аhамиатка
-13	iä	_	_	_	_	_	_	_	иа
-14	bula	_	VERB	_	_	_	_	_	була
-15	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  61
-# text =  Süzneñ tamırı ğäcäyep närsäne yäki bäyrämne añlata.
-1	Süzneñ	_	_	_	_	_	_	_	Сүзнен
-2	tamırı	_	_	_	_	_	_	_	тамири
-3	ğäcäyep	_	_	_	_	_	_	_	гацайеп
-4	närsäne	_	_	_	_	_	_	_	нарсане
-5	yäki	_	NOUN	_	_	_	_	_	йаки
-6	bäyrämne	_	_	_	_	_	_	_	байрамне
-7	añlata	_	_	_	_	_	_	_	анлата
-8	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  62
-# text =  Bu mäğnädä «ädäp», bädäwilärneñ tomanalıqlarına qapma-qarşı bularaq, totnaqlılıq, xörmät itü, näzäqätlelekne añlatqan «urbanitas» digän Latin süzenä yaqın.
-1	Bu	_	_	_	_	_	_	_	Бу
-2	mäğnädä	_	_	_	_	_	_	_	магнада
-3	«ädäp»	_	_	_	_	_	_	_	«адап»
-4	,	_	PUNCT	_	_	_	_	_	,
-5	bädäwilärneñ	_	_	_	_	_	_	_	бадавиларнен
-6	tomanalıqlarına	_	_	_	_	_	_	_	томаналикларина
-7	qapma-qarşı	_	_	_	_	_	_	_	капма-карши
-8	bularaq	_	_	_	_	_	_	_	буларак
-9	,	_	PUNCT	_	_	_	_	_	,
-10	totnaqlılıq	_	_	_	_	_	_	_	тотнаклилик
-11	,	_	PUNCT	_	_	_	_	_	,
-12	xörmät	_	_	_	_	_	_	_	хөрмат
-13	itü	_	ADJ	_	_	_	_	_	итү
-14	,	_	PUNCT	_	_	_	_	_	,
-15	näzäqätlelekne	_	_	_	_	_	_	_	назакатлелекне
-16	añlatqan	_	_	_	_	_	_	_	анлаткан
-17	«urbanitas»	_	_	_	_	_	_	_	«урбанитас»
-18	digän	_	_	_	_	_	_	_	диган
-19	Latin	_	_	_	_	_	_	_	латин
-20	süzenä	_	_	_	_	_	_	_	сүзена
-21	yaqın	_	ADJ	_	_	_	_	_	йакин
-22	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  63
-# text =  Şulay itep, ädäp qaywaqıt yaxşı ğädätlärne añlata.
-1	Şulay	_	_	_	_	_	_	_	Шулай
-2	itep	_	_	_	_	_	_	_	итеп
-3	,	_	PUNCT	_	_	_	_	_	,
-4	ädäp	_	_	_	_	_	_	_	адап
-5	qaywaqıt	_	_	_	_	_	_	_	кайвакит
-6	yaxşı	_	_	_	_	_	_	_	йахши
-7	ğädätlärne	_	_	_	_	_	_	_	гадатларне
-8	añlata	_	_	_	_	_	_	_	анлата
-9	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  64
-# text =  Ädäp süze küplek mäğnäsendä alına.
-1	Ädäp	_	_	_	_	_	_	_	Адап
-2	süze	_	_	_	_	_	_	_	сүзе
-3	küplek	_	_	_	_	_	_	_	күплек
-4	mäğnäsendä	_	_	_	_	_	_	_	магнасенда
-5	alına	_	_	_	_	_	_	_	алина
-6	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  65
-# text =  Şunlıqtan İslam ädäbe İslamda bulğan, anıñ öyrätülärennän häm kürsätmälärennän çığuçı yaxşı sıyfatlarnı belderä.
-1	Şunlıqtan	_	_	_	_	_	_	_	Шунликтан
-2	İslam	_	_	_	_	_	_	_	ислам
-3	ädäbe	_	_	_	_	_	_	_	адабе
-4	İslamda	_	_	_	_	_	_	_	исламда
-5	bulğan	_	VERB	_	_	_	_	_	булган
-6	,	_	PUNCT	_	_	_	_	_	,
-7	anıñ	_	_	_	_	_	_	_	анин
-8	öyrätülärennän	_	_	_	_	_	_	_	өйратүлареннан
-9	häm	_	INTJ	_	_	_	_	_	hам
-10	kürsätmälärennän	_	_	_	_	_	_	_	күрсатмалареннан
-11	çığuçı	_	_	_	_	_	_	_	чигучи
-12	yaxşı	_	_	_	_	_	_	_	йахши
-13	sıyfatlarnı	_	_	_	_	_	_	_	сийфатларни
-14	belderä	_	_	_	_	_	_	_	белдера
-15	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  66
-# text =  Tatar isemnäre:
-1	Tatar	_	ADJ	_	_	_	_	_	Татар
-2	isemnäre	_	_	_	_	_	_	_	исемнаре
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  67
-# text =  Tatar xalqı üz balarına matur isemnärne birä, awılda andıy isem belän başqa keşelär bulmasqa tırışalar.
-1	Tatar	_	ADJ	_	_	_	_	_	Татар
-2	xalqı	_	NOUN	_	_	_	_	_	халки
-3	üz	_	PRON	_	_	_	_	_	үз
-4	balarına	_	_	_	_	_	_	_	баларина
-5	matur	_	_	_	_	_	_	_	матур
-6	isemnärne	_	_	_	_	_	_	_	исемнарне
-7	birä	_	_	_	_	_	_	_	бира
-8	,	_	PUNCT	_	_	_	_	_	,
-9	awılda	_	_	_	_	_	_	_	авилда
-10	andıy	_	_	_	_	_	_	_	андий
-11	isem	_	_	_	_	_	_	_	исем
-12	belän	_	SCONJ	_	_	_	_	_	белан
-13	başqa	_	PRON	_	_	_	_	_	башка
-14	keşelär	_	_	_	_	_	_	_	кешелар
-15	bulmasqa	_	_	_	_	_	_	_	булмаска
-16	tırışalar	_	_	_	_	_	_	_	тиришалар
-17	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  68
-# text =  Tatarlar ike isemnän/süzdän quşma isem uylap çığarırğa sälätle.
-1	Tatarlar	_	NOUN	_	_	_	_	_	Татарлар
-2	ike	_	_	_	_	_	_	_	ике
-3	isemnän	_	_	_	_	_	_	_	исемнан
-4	/süzdän	_	_	_	_	_	_	_	/сүздан
-5	quşma	_	_	_	_	_	_	_	кушма
-6	isem	_	_	_	_	_	_	_	исем
-7	uylap	_	VERB	_	_	_	_	_	уйлап
-8	çığarırğa	_	_	_	_	_	_	_	чигарирга
-9	sälätle	_	_	_	_	_	_	_	салатле
-10	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  69
-# text =  İsem mäğnäse.
-1	İsem	_	_	_	_	_	_	_	исем
-2	mäğnäse	_	_	_	_	_	_	_	магнасе
-3	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  70
-# text =  Qısqartma:
-1	Qısqartma	_	_	_	_	_	_	_	Кискартма
-2	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  71
-# text =  Çığanaq-tel qısqartması:
-1	Çığanaq-tel	_	_	_	_	_	_	_	Чиганак-тел
-2	qısqartması	_	_	_	_	_	_	_	кискартмаси
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  72
-# text =  İdel-Ural Ştatı:
-1	İdel-Ural	_	_	_	_	_	_	_	идел-Урал
-2	Ştatı	_	_	_	_	_	_	_	Штати
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  73
-# text =  İdel-Ural berlege (İdel-Ural ştatı) 1917-1919 yıllarda Könçığış Awrupada xäzerge öç Törki-Tatar (Tatarstan, Başqortstan, Çuaşstan) häm öç Fin-Uğır (Mari İl, Mordoviä häm Udmurtiä) cömhüriätlären berläştergän.
-1	İdel-Ural	_	_	_	_	_	_	_	идел-Урал
-2	berlege	_	_	_	_	_	_	_	берлеге
-3		_	_	_	_	_	_	_
-4	(İdel-Ural	_	_	_	_	_	_	_	(идел-Урал
-5	ştatı	_	_	_	_	_	_	_	штати
-6	)	_	PUNCT	_	_	_	_	_	)
-7	1917-1919	_	_	_	_	_	_	_	1917-1919
-8	yıllarda	_	_	_	_	_	_	_	йилларда
-9	Könçığış	_	_	_	_	_	_	_	көнчигиш
-10	Awrupada	_	_	_	_	_	_	_	Аврупада
-11	xäzerge	_	_	_	_	_	_	_	хазерге
-12	öç	_	_	_	_	_	_	_	өч
-13	Törki-Tatar	_	_	_	_	_	_	_	Төрки-Татар
-14		_	_	_	_	_	_	_
-15	(Tatarstan	_	_	_	_	_	_	_	(Татарстан
-16	,	_	PUNCT	_	_	_	_	_	,
-17	Başqortstan	_	_	_	_	_	_	_	Башкортстан
-18	,	_	PUNCT	_	_	_	_	_	,
-19	Çuaşstan	_	_	_	_	_	_	_	Чуашстан
-20	)	_	PUNCT	_	_	_	_	_	)
-21	häm	_	INTJ	_	_	_	_	_	hам
-22	öç	_	_	_	_	_	_	_	өч
-23	Fin-Uğır	_	_	_	_	_	_	_	Фин-Угир
-24		_	_	_	_	_	_	_
-25	(Mari	_	_	_	_	_	_	_	(Мари
-26	İl	_	_	_	_	_	_	_	ил
-27	,	_	PUNCT	_	_	_	_	_	,
-28	Mordoviä	_	_	_	_	_	_	_	Мордовиа
-29	häm	_	INTJ	_	_	_	_	_	hам
-30	Udmurtiä	_	_	_	_	_	_	_	Удмуртиа
-31	)	_	PUNCT	_	_	_	_	_	)
-32	cömhüriätlären	_	_	_	_	_	_	_	цөмhүриатларен
-33	berläştergän	_	_	_	_	_	_	_	берлаштерган
-34	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  74
-# text =  Tarix.
-1	Tarix	_	_	_	_	_	_	_	Тарих
-2	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  75
-# text =  1917 yılnıñ iyül ayında Törki-Tatarlar İdel-Ural däwläteneñ nigeze salına.
-1	1917	_	_	_	_	_	_	_	1917
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	iyül	_	_	_	_	_	_	_	ийүл
-4	ayında	_	_	_	_	_	_	_	айинда
-5	Törki-Tatarlar	_	_	_	_	_	_	_	Төрки-Татарлар
-6	İdel-Ural	_	_	_	_	_	_	_	идел-Урал
-7	däwläteneñ	_	_	_	_	_	_	_	давлатенен
-8	nigeze	_	_	_	_	_	_	_	нигезе
-9	salına	_	_	_	_	_	_	_	салина
-10	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  76
-# text =  Waqıtlı Milli İdärä yasala, ul öç näzärättän tora:
-1	Waqıtlı	_	_	_	_	_	_	_	Вакитли
-2	Milli	_	NOUN	_	_	_	_	_	Милли
-3	İdärä	_	_	_	_	_	_	_	идара
-4	yasala	_	_	_	_	_	_	_	йасала
-5	,	_	PUNCT	_	_	_	_	_	,
-6	ul	_	PRON	_	_	_	_	_	ул
-7	öç	_	_	_	_	_	_	_	өч
-8	näzärättän	_	_	_	_	_	_	_	назараттан
-9	tora	_	_	_	_	_	_	_	тора
-10	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  77
-# text =  Milli Xäzinä oyıştırıla, anda 1 million sum çaması aqça cıyıla.
-1	Milli	_	NOUN	_	_	_	_	_	Милли
-2	Xäzinä	_	_	_	_	_	_	_	Хазина
-3	oyıştırıla	_	_	_	_	_	_	_	ойиштирила
-4	,	_	PUNCT	_	_	_	_	_	,
-5	anda	_	_	_	_	_	_	_	анда
-6	1	_	_	_	_	_	_	_	1
-7	million	_	_	_	_	_	_	_	миллион
-8	sum	_	_	_	_	_	_	_	сум
-9	çaması	_	_	_	_	_	_	_	чамаси
-10	aqça	_	_	_	_	_	_	_	акча
-11	cıyıla	_	_	_	_	_	_	_	цийила
-12	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  78
-# text =  1917 yılnıñ 20 noyäberendä Sadri Maqsudi Millät Mäcleseneñ utırışın uzdıra.
-1	1917	_	_	_	_	_	_	_	1917
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	20	_	_	_	_	_	_	_	20
-4	noyäberendä	_	_	_	_	_	_	_	нойаберенда
-5	Sadri	_	_	_	_	_	_	_	Садри
-6	Maqsudi	_	_	_	_	_	_	_	Максуди
-7	Millät	_	_	_	_	_	_	_	Миллат
-8	Mäcleseneñ	_	_	_	_	_	_	_	Мацлесенен
-9	utırışın	_	_	_	_	_	_	_	утиришин
-10	uzdıra	_	_	_	_	_	_	_	уздира
-11	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  79
-# text =  İdel-Ural Ştatınıñ yasaluı iğlan itelä, ul Qazan xanlığınıñ däwamı bulırğa tieş.
-1	İdel-Ural	_	_	_	_	_	_	_	идел-Урал
-2	Ştatınıñ	_	_	_	_	_	_	_	Штатинин
-3	yasaluı	_	_	_	_	_	_	_	йасалуи
-4	iğlan	_	_	_	_	_	_	_	иглан
-5	itelä	_	_	_	_	_	_	_	итела
-6	,	_	PUNCT	_	_	_	_	_	,
-7	ul	_	PRON	_	_	_	_	_	ул
-8	Qazan	_	NOUN	_	_	_	_	_	Казан
-9	xanlığınıñ	_	_	_	_	_	_	_	ханлигинин
-10	däwamı	_	_	_	_	_	_	_	давами
-11	bulırğa	_	_	_	_	_	_	_	булирга
-12	tieş	_	_	_	_	_	_	_	тиеш
-13	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  80
-# text =  Millät Mäclese Sadri Maqsudinı İdel-Uralnıñ berençe prezidentı itep saylap quya.
-1	Millät	_	_	_	_	_	_	_	Миллат
-2	Mäclese	_	_	_	_	_	_	_	Мацлесе
-3	Sadri	_	_	_	_	_	_	_	Садри
-4	Maqsudinı	_	_	_	_	_	_	_	Максудини
-5	İdel-Uralnıñ	_	_	_	_	_	_	_	идел-Уралнин
-6	berençe	_	NUM	_	_	_	_	_	беренче
-7	prezidentı	_	_	_	_	_	_	_	президенти
-8	itep	_	_	_	_	_	_	_	итеп
-9	saylap	_	_	_	_	_	_	_	сайлап
-10	quya	_	_	_	_	_	_	_	куйа
-11	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  81
-# text =  1918 yılnıñ 5 ğinwarında Sadri Maqsudi Millät İdäräseneñ räise bulıp saylana.
-1	1918	_	_	_	_	_	_	_	1918
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	5	_	_	_	_	_	_	_	5
-4	ğinwarında	_	NOUN	_	_	_	_	_	гинваринда
-5	Sadri	_	_	_	_	_	_	_	Садри
-6	Maqsudi	_	_	_	_	_	_	_	Максуди
-7	Millät	_	_	_	_	_	_	_	Миллат
-8	İdäräseneñ	_	_	_	_	_	_	_	идарасенен
-9	räise	_	_	_	_	_	_	_	раисе
-10	bulıp	_	_	_	_	_	_	_	булип
-11	saylana	_	_	_	_	_	_	_	сайлана
-12	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  82
-# text =  1918 yılnıñ 10 ğinwarında Xärbi İdäräneñ 3000 ğäskäre Ufa uramnarında, «İdel-Ural!» qıçqırıp, milli tantanalı çığış yasıylar wä Milli İdäräneñ räise Sadri Maqsudi bu tantananı qabul itä.
-1	1918	_	_	_	_	_	_	_	1918
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	10	_	_	_	_	_	_	_	10
-4	ğinwarında	_	NOUN	_	_	_	_	_	гинваринда
-5	Xärbi	_	_	_	_	_	_	_	Харби
-6	İdäräneñ	_	_	_	_	_	_	_	идаранен
-7	3000	_	_	_	_	_	_	_	3000
-8	ğäskäre	_	_	_	_	_	_	_	гаскаре
-9	Ufa	_	_	_	_	_	_	_	Уфа
-10	uramnarında	_	_	_	_	_	_	_	урамнаринда
-11	,	_	PUNCT	_	_	_	_	_	,
-12	«İdel-Ural	_	_	_	_	_	_	_	«идел-Урал
-13	!»	_	_	_	_	_	_	_	!»
-14	qıçqırıp	_	_	_	_	_	_	_	кичкирип
-15	,	_	PUNCT	_	_	_	_	_	,
-16	milli	_	_	_	_	_	_	_	милли
-17	tantanalı	_	_	_	_	_	_	_	тантанали
-18	çığış	_	_	_	_	_	_	_	чигиш
-19	yasıylar	_	_	_	_	_	_	_	йасийлар
-20	wä	_	CCONJ	_	_	_	_	_	ва
-21	Milli	_	NOUN	_	_	_	_	_	Милли
-22	İdäräneñ	_	_	_	_	_	_	_	идаранен
-23	räise	_	_	_	_	_	_	_	раисе
-24	Sadri	_	_	_	_	_	_	_	Садри
-25	Maqsudi	_	_	_	_	_	_	_	Максуди
-26	bu	_	_	_	_	_	_	_	бу
-27	tantananı	_	_	_	_	_	_	_	тантанани
-28	qabul	_	NOUN	_	_	_	_	_	кабул
-29	itä	_	VERB	_	_	_	_	_	ита
-30	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  83
-# text =  1918 yılnıñ 14 ğinwarında Xärbi İdäräneñ 2 cıyılışınıñ 14 utırışında Sadri Maqsudi cämğiätne, berläşkän millät bulırğa häm milli mänfäğätlärne onıtmasqa, çaqırğan.
-1	1918	_	_	_	_	_	_	_	1918
-2	yılnıñ	_	NOUN	_	_	_	_	_	йилнин
-3	14	_	_	_	_	_	_	_	14
-4	ğinwarında	_	NOUN	_	_	_	_	_	гинваринда
-5	Xärbi	_	_	_	_	_	_	_	Харби
-6	İdäräneñ	_	_	_	_	_	_	_	идаранен
-7	2	_	_	_	_	_	_	_	2
-8	cıyılışınıñ	_	_	_	_	_	_	_	цийилишинин
-9	14	_	_	_	_	_	_	_	14
-10	utırışında	_	_	_	_	_	_	_	утиришинда
-11	Sadri	_	_	_	_	_	_	_	Садри
-12	Maqsudi	_	_	_	_	_	_	_	Максуди
-13	cämğiätne	_	_	_	_	_	_	_	цамгиатне
-14	,	_	PUNCT	_	_	_	_	_	,
-15	berläşkän	_	_	_	_	_	_	_	берлашкан
-16	millät	_	_	_	_	_	_	_	миллат
-17	bulırğa	_	_	_	_	_	_	_	булирга
-18	häm	_	INTJ	_	_	_	_	_	hам
-19	milli	_	_	_	_	_	_	_	милли
-20	mänfäğätlärne	_	_	_	_	_	_	_	манфагатларне
-21	onıtmasqa	_	_	_	_	_	_	_	онитмаска
-22	,	_	PUNCT	_	_	_	_	_	,
-23	çaqırğan	_	_	_	_	_	_	_	чакирган
-24	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  84
-# text =  Millät Mäclese wäkilläre Sovet xäkimiäte belän söyläşü alıpbaruınnan baş tartıp, Milli İdäräseneñ cirle büleklärne yasawın däwam itälär: alar salımnarnı cıyalar.
-1	Millät	_	_	_	_	_	_	_	Миллат
-2	Mäclese	_	_	_	_	_	_	_	Мацлесе
-3	wäkilläre	_	_	_	_	_	_	_	вакилларе
-4	Sovet	_	_	_	_	_	_	_	Совет
-5	xäkimiäte	_	_	_	_	_	_	_	хакимиате
-6	belän	_	SCONJ	_	_	_	_	_	белан
-7	söyläşü	_	_	_	_	_	_	_	сөйлашү
-8	alıpbaruınnan	_	_	_	_	_	_	_	алипбаруиннан
-9	baş	_	_	_	_	_	_	_	баш
-10	tartıp	_	_	_	_	_	_	_	тартип
-11	,	_	PUNCT	_	_	_	_	_	,
-12	Milli	_	NOUN	_	_	_	_	_	Милли
-13	İdäräseneñ	_	_	_	_	_	_	_	идарасенен
-14	cirle	_	_	_	_	_	_	_	цирле
-15	büleklärne	_	_	_	_	_	_	_	бүлекларне
-16	yasawın	_	_	_	_	_	_	_	йасавин
-17	däwam	_	NOUN	_	_	_	_	_	давам
-18	itälär	_	_	_	_	_	_	_	италар
-19	:	_	PUNCT	_	_	_	_	_	:
-20	alar	_	_	_	_	_	_	_	алар
-21	salımnarnı	_	_	_	_	_	_	_	салимнарни
-22	cıyalar	_	_	_	_	_	_	_	цийалар
-23	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  85
-# text =  Miras.
-1	Miras	_	_	_	_	_	_	_	Мирас
-2	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  86
-# text =  Xäzerge waqıtta qayber Tatarstan, Başqortstan, Çuaşstan h.b.
-1	Xäzerge	_	_	_	_	_	_	_	Хазерге
-2	waqıtta	_	_	_	_	_	_	_	вакитта
-3	qayber	_	_	_	_	_	_	_	кайбер
-4	Tatarstan	_	NOUN	_	_	_	_	_	Татарстан
-5	,	_	PUNCT	_	_	_	_	_	,
-6	Başqortstan	_	_	_	_	_	_	_	Башкортстан
-7	,	_	PUNCT	_	_	_	_	_	,
-8	Çuaşstan	_	_	_	_	_	_	_	Чуашстан
-9	h	_	INTJ	_	_	_	_	_	h
-10	.b	_	_	_	_	_	_	_	.б
-11	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  87
-# text =  - İdel buyı Bolğarı milli köçläre İdel-Ural bayrağın qullanalar.
-1	-	_	_	_	_	_	_	_	-
-2	İdel	_	_	_	_	_	_	_	идел
-3	buyı	_	_	_	_	_	_	_	буйи
-4	Bolğarı	_	_	_	_	_	_	_	Болгари
-5	milli	_	_	_	_	_	_	_	милли
-6	köçläre	_	_	_	_	_	_	_	көчларе
-7	İdel-Ural	_	_	_	_	_	_	_	идел-Урал
-8	bayrağın	_	_	_	_	_	_	_	байрагин
-9	qullanalar	_	_	_	_	_	_	_	кулланалар
-10	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  88
-# text =  Rudolf Nuriev:
-1	Rudolf	_	_	_	_	_	_	_	Рудолф
-2	Nuriev	_	_	_	_	_	_	_	Нуриев
-3	:	_	PUNCT	_	_	_	_	_	:
-
-# sent_id =  89
-# text =  Başlanğıç yılları, Kirov baletında qärerä.
-1	Başlanğıç	_	_	_	_	_	_	_	Башлангич
-2	yılları	_	_	_	_	_	_	_	йиллари
-3	,	_	PUNCT	_	_	_	_	_	,
-4	Kirov	_	_	_	_	_	_	_	киров
-5	baletında	_	_	_	_	_	_	_	балетинда
-6	qärerä	_	_	_	_	_	_	_	карера
-7	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  90
-# text =  Rudolf Nuriev Irkutsk şähäre yanında poyızdda tua.
-1	Rudolf	_	_	_	_	_	_	_	Рудолф
-2	Nuriev	_	_	_	_	_	_	_	Нуриев
-3	Irkutsk	_	_	_	_	_	_	_	иркутск
-4	şähäre	_	_	_	_	_	_	_	шаhаре
-5	yanında	_	_	_	_	_	_	_	йанинда
-6	poyızdda	_	_	_	_	_	_	_	пойиздда
-7	tua	_	_	_	_	_	_	_	туа
-8	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  91
-# text =  Bu waqıtta anıñ änise, Färidä, Seberdän Vladíwostoqqa taba, ätise, Qızıl qömissar Xämit urnaşqan şähärgä säyäxät itä.
-1	Bu	_	_	_	_	_	_	_	Бу
-2	waqıtta	_	_	_	_	_	_	_	вакитта
-3	anıñ	_	_	_	_	_	_	_	анин
-4	änise	_	_	_	_	_	_	_	анисе
-5	,	_	PUNCT	_	_	_	_	_	,
-6	Färidä	_	_	_	_	_	_	_	Фарида
-7	,	_	PUNCT	_	_	_	_	_	,
-8	Seberdän	_	_	_	_	_	_	_	Себердан
-9	Vladíwostoqqa	_	_	_	_	_	_	_	Владивостокка
-10	taba	_	_	_	_	_	_	_	таба
-11	,	_	PUNCT	_	_	_	_	_	,
-12	ätise	_	_	_	_	_	_	_	атисе
-13	,	_	PUNCT	_	_	_	_	_	,
-14	Qızıl	_	_	_	_	_	_	_	Кизил
-15	qömissar	_	_	_	_	_	_	_	көмиссар
-16	Xämit	_	_	_	_	_	_	_	Хамит
-17	urnaşqan	_	_	_	_	_	_	_	урнашкан
-18	şähärgä	_	_	_	_	_	_	_	шаhарга
-19	säyäxät	_	_	_	_	_	_	_	сайахат
-20	itä	_	VERB	_	_	_	_	_	ита
-21	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  92
-# text =  Balaçağın Rudolf Öfe yanındağı ber awılda tatar ğailäsendä ütkärä.
-1	Balaçağın	_	_	_	_	_	_	_	Балачагин
-2	Rudolf	_	_	_	_	_	_	_	Рудолф
-3	Öfe	_	_	_	_	_	_	_	Өфе
-4	yanındağı	_	_	_	_	_	_	_	йаниндаги
-5	ber	_	_	_	_	_	_	_	бер
-6	awılda	_	_	_	_	_	_	_	авилда
-7	tatar	_	ADJ	_	_	_	_	_	татар
-8	ğailäsendä	_	_	_	_	_	_	_	гаиласенда
-9	ütkärä	_	_	_	_	_	_	_	үткара
-10	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  93
-# text =  Bala çaqta uq anı Başqort xalıq biülären başqarırğa öndilär, häm şul waqıtta anıñ säläte açıla.
-1	Bala	_	_	_	_	_	_	_	Бала
-2	çaqta	_	_	_	_	_	_	_	чакта
-3	uq	_	_	_	_	_	_	_	ук
-4	anı	_	_	_	_	_	_	_	ани
-5	Başqort	_	_	_	_	_	_	_	Башкорт
-6	xalıq	_	_	_	_	_	_	_	халик
-7	biülären	_	_	_	_	_	_	_	биүларен
-8	başqarırğa	_	_	_	_	_	_	_	башкарирга
-9	öndilär	_	_	_	_	_	_	_	өндилар
-10	,	_	PUNCT	_	_	_	_	_	,
-11	häm	_	INTJ	_	_	_	_	_	hам
-12	şul	_	PRON	_	_	_	_	_	шул
-13	waqıtta	_	_	_	_	_	_	_	вакитта
-14	anıñ	_	_	_	_	_	_	_	анин
-15	säläte	_	_	_	_	_	_	_	салате
-16	açıla	_	_	_	_	_	_	_	ачила
-17	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  94
-# text =  İkençe Bötendöniä Suğışı tämamlangaç, tormış awırlıqları arqasında, ul 1955 yılda ğına yuğarı balet mäktäbenä kerü mömkinçelegen ala.
-1	İkençe	_	_	_	_	_	_	_	икенче
-2	Bötendöniä	_	_	_	_	_	_	_	Бөтендөниа
-3	Suğışı	_	_	_	_	_	_	_	Сугиши
-4	tämamlangaç	_	_	_	_	_	_	_	тамамлангач
-5	,	_	PUNCT	_	_	_	_	_	,
-6	tormış	_	_	_	_	_	_	_	тормиш
-7	awırlıqları	_	_	_	_	_	_	_	авирликлари
-8	arqasında	_	_	_	_	_	_	_	аркасинда
-9	,	_	PUNCT	_	_	_	_	_	,
-10	ul	_	PRON	_	_	_	_	_	ул
-11	1955	_	_	_	_	_	_	_	1955
-12	yılda	_	NOUN	_	_	_	_	_	йилда
-13	ğına	_	_	_	_	_	_	_	гина
-14	yuğarı	_	_	_	_	_	_	_	йугари
-15	balet	_	_	_	_	_	_	_	балет
-16	mäktäbenä	_	_	_	_	_	_	_	мактабена
-17	kerü	_	_	_	_	_	_	_	керү
-18	mömkinçelegen	_	_	_	_	_	_	_	мөмкинчелеген
-19	ala	_	_	_	_	_	_	_	ала
-20	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  95
-# text =  Bu waqıtta anı Leningradtağı Kirov baletı qarşısında eşlägän Wağanov Xoreografia institutına uqırğa cibärälär.
-1	Bu	_	_	_	_	_	_	_	Бу
-2	waqıtta	_	_	_	_	_	_	_	вакитта
-3	anı	_	_	_	_	_	_	_	ани
-4	Leningradtağı	_	_	_	_	_	_	_	ленинградтаги
-5	Kirov	_	_	_	_	_	_	_	киров
-6	baletı	_	_	_	_	_	_	_	балети
-7	qarşısında	_	_	_	_	_	_	_	каршисинда
-8	eşlägän	_	VERB	_	_	_	_	_	ешлаган
-9	Wağanov	_	_	_	_	_	_	_	Ваганов
-10	Xoreografia	_	_	_	_	_	_	_	Хореографиа
-11	institutına	_	_	_	_	_	_	_	институтина
-12	uqırğa	_	_	_	_	_	_	_	укирга
-13	cibärälär	_	_	_	_	_	_	_	цибаралар
-14	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  96
-# text =  Biü hönären soñ üzläşterüenä qarmastan, anı Wağanov mäktäbeneñ berniçä distä yıl eçendä iñ sälätle uquçısı bularaq tanıylar.
-1	Biü	_	_	_	_	_	_	_	Биү
-2	hönären	_	_	_	_	_	_	_	hөнарен
-3	soñ	_	ADV	_	_	_	_	_	сон
-4	üzläşterüenä	_	_	_	_	_	_	_	үзлаштерүена
-5	qarmastan	_	_	_	_	_	_	_	кармастан
-6	,	_	PUNCT	_	_	_	_	_	,
-7	anı	_	_	_	_	_	_	_	ани
-8	Wağanov	_	_	_	_	_	_	_	Ваганов
-9	mäktäbeneñ	_	_	_	_	_	_	_	мактабенен
-10	berniçä	_	_	_	_	_	_	_	бернича
-11	distä	_	_	_	_	_	_	_	диста
-12	yıl	_	NOUN	_	_	_	_	_	йил
-13	eçendä	_	_	_	_	_	_	_	еченда
-14	iñ	_	PART	_	_	_	_	_	ин
-15	sälätle	_	_	_	_	_	_	_	салатле
-16	uquçısı	_	_	_	_	_	_	_	укучиси
-17	bularaq	_	_	_	_	_	_	_	буларак
-18	tanıylar	_	_	_	_	_	_	_	танийлар
-19	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  97
-# text =  Ul berqayçan da qardebaletta biemiçä, baştan uq Kirov teatrı solistına äwerelä.
-1	Ul	_	_	_	_	_	_	_	Ул
-2	berqayçan	_	_	_	_	_	_	_	беркайчан
-3	da	_	OTHER	_	_	_	_	_	да
-4	qardebaletta	_	_	_	_	_	_	_	кардебалетта
-5	biemiçä	_	_	_	_	_	_	_	биемича
-6	,	_	PUNCT	_	_	_	_	_	,
-7	baştan	_	_	_	_	_	_	_	баштан
-8	uq	_	_	_	_	_	_	_	ук
-9	Kirov	_	_	_	_	_	_	_	киров
-10	teatrı	_	_	_	_	_	_	_	театри
-11	solistına	_	_	_	_	_	_	_	солистина
-12	äwerelä	_	ADJ	_	_	_	_	_	аверела
-13	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  99
-# text =  İke yıldan soñ Nuriev Sovetlar Berlege eçendä iñ tanılğan balet biüçesenä äwerelä.
-1	İke	_	_	_	_	_	_	_	ике
-2	yıldan	_	_	_	_	_	_	_	йилдан
-3	soñ	_	ADV	_	_	_	_	_	сон
-4	Nuriev	_	_	_	_	_	_	_	Нуриев
-5	Sovetlar	_	_	_	_	_	_	_	Советлар
-6	Berlege	_	_	_	_	_	_	_	Берлеге
-7	eçendä	_	_	_	_	_	_	_	еченда
-8	iñ	_	PART	_	_	_	_	_	ин
-9	tanılğan	_	_	_	_	_	_	_	танилган
-10	balet	_	_	_	_	_	_	_	балет
-11	biüçesenä	_	_	_	_	_	_	_	биүчесена
-12	äwerelä	_	ADJ	_	_	_	_	_	аверела
-13	.	_	PUNCT	_	_	_	_	_	.
-
-# sent_id =  100
-# text =  Tizdän aña çit ilgä çığu mömkinçelege tatıy, ul Vena Xalıqara yäşlär festiwälenä bara.
-1	Tizdän	_	_	_	_	_	_	_	Тиздан
-2	aña	_	_	_	_	_	_	_	ана
-3	çit	_	_	_	_	_	_	_	чит
-4	ilgä	_	_	_	_	_	_	_	илга
-5	çığu	_	_	_	_	_	_	_	чигу
-6	mömkinçelege	_	_	_	_	_	_	_	мөмкинчелеге
-7	tatıy	_	_	_	_	_	_	_	татий
-8	,	_	PUNCT	_	_	_	_	_	,
-9	ul	_	PRON	_	_	_	_	_	ул
-10	Vena	_	_	_	_	_	_	_	Вена
-11	Xalıqara	_	_	_	_	_	_	_	Халикара
-12	yäşlär	_	_	_	_	_	_	_	йашлар
-13	festiwälenä	_	_	_	_	_	_	_	фестивалена
-14	bara	_	_	_	_	_	_	_	бара
-15	.	_	PUNCT	_	_	_	_	_	.
