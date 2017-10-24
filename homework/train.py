@@ -39,7 +39,7 @@ for line in train:
 
 for w2 in t:
 	freq = t[w2]/total
-	print("%.2f\t%d\t%s\t%s" % (freq, t[w2], w2, w1))
+	print("%.2f\t%d\t%s\t%s" % (freq, t[w2], w2, "_"))
 
 for w1 in w:
 	for w2 in w[w1]:
