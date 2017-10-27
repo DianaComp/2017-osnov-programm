@@ -53,7 +53,7 @@ for line in tokt.readlines():
 	line = line.strip("\n")
 	if "\t" not in line:
 		continue
-	if line == "&"
+	if line == "&":
 		print(line)
 	line = line.split("\t")
 	inn = line[0]
@@ -70,6 +70,7 @@ for b in vocab:
 	if surf in table:
 		line[3] = table[surf]
 	tokenised_tagged.write("\t".join(line))
+	tokenised_tagged.write("\n")
 
 tokenised_tagged.close()
 
